@@ -2,3 +2,8 @@
 MUEA project management group 3.
 
 TEST
+
+Please do a commit including your name in this list: 
+
+Pol Fontanes Molina
+Eva María Urbano González
