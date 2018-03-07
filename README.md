@@ -10,4 +10,4 @@ Eva María Urbano González
 Josep Maria Serra Moncunill
 Laura Pla Olea
 Hamza Nachett
-Silvia Gonzalex Garcia
+Silvia Gonzalez Garcia
