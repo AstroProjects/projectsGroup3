@@ -9,3 +9,4 @@ Pol Fontanes Molina
 Eva María Urbano González
 Josep Maria Serra Moncunill
 Laura Pla Olea
+Hamza Nachett
