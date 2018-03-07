@@ -8,3 +8,4 @@ Please do a commit including your name in this list:
 Pol Fontanes Molina
 Eva María Urbano González
 Josep Maria Serra Moncunill
+Laura Pla Olea
