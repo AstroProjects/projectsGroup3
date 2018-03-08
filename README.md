@@ -11,3 +11,4 @@ Josep Maria Serra Moncunill
 Laura Pla Olea
 Hamza Nachett
 Silvia Gonzalez Garcia
+David Pérez Sánchez
