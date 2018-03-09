@@ -1,0 +1,51 @@
+## -- LaTeX ----------------------------------------
+
+# core auxiliar compilation files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+
+#Bibliography auxiliary files (bibtex):
+*.bbl
+*.blg
+
+# Build tool auxiliary files:
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+
+# intermediate compiled files such images
+*-converted-to.*
+
+##-- Matlab ----------------------------------------
+
+# Windows default autosave extension
+*.asv
+
+
+##-- OS files ---------------------------------------
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Windows shortcuts
+*.lnk
+
+# macOS
+*DS_Store
+
+
