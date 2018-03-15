@@ -42,7 +42,7 @@ Como se puede ver, la tabla está a la izquierda de la hoja. Para centrarla, se 
 \end{tabular} 
 \end{center}
 
-Otra cosa que se puede ver es que todas las casillas están centradas. Esto se puede cambiar si se pone otra letra al empezar la tabla. La c es de centrado, la l es de iquierda y la r es de derecha. En el asistente se puede hacer con bastante facilidad. El siguiente ejemplo tiene cada columna alineada diferente:
+Otra cosa que se puede ver es que todas las casillas están centradas. Esto se puede cambiar si se pone otra letra al empezar la tabla. La c es de centrado, la l es de izquierda y la r es de derecha. En el asistente se puede hacer con bastante facilidad. El siguiente ejemplo tiene cada columna alineada diferente:
 
 \begin{center}
 	\begin{tabular}{|l|c|r|}
@@ -100,7 +100,7 @@ Es importante destacar que si se utiliza \verb!p{1cm}!, el texto de la columna q
 
 Finalmente, se puede cambiar un poco el formato de las líneas de las tablas. Si se prescinden de las líneas verticales | al definir la tabla, queda una tabla sin líneas verticales. También se pueden poner solo algunas de ellas.
 
-Además, se puede dar negrita, cambiar el tamaño del texto y otras opciones de dar formato al texto
+Además, se puede dar negrita, cambiar el tamaño del texto y otras opciones de dar formato al texto. Para dar color al fondo de la celda, se utiliza el comando \verb!\cellcolor[HTML]{XXXXXX}!, y a continuación el texto de la celda. El código XXXXXX es el código del color con el que se quiere rellenar.
 
 \begin{center}
 	\begin{tabular}{ p{2cm} | p{1cm} | p{10cm} }
@@ -114,9 +114,9 @@ Además, se puede dar negrita, cambiar el tamaño del texto y otras opciones de 
 	\end{tabular} 
 \end{center}
 
-Un tema del que aún no hemos hablado es que ninguna de las tablas anteriores aparece en el índice de tablas, ni tampoco tiene número ni descripción. Esto es porque en ningún momento le hemos dicho que debe aparecer allí. Para hacer eso, debemos definir un elemento table, y luego un elemento tabular (hasta ahora hemos estado usando sólo tabular). Para hacer esto, simplemente empezamos definiento table con \verb!\begin{table}[h]!, con su \verb!\end{table}! al final. En medio de los dos comandos es cuando definimos nuestra tabla con, por ejemplo, \verb!\begin{tabular}! y \verb!\end{tabular}{|c|c|c|}!, y hacemos una tabla como de costumbre.
+Un tema del que aún no hemos hablado es que ninguna de las tablas anteriores aparece en el índice de tablas, ni tampoco tiene número ni descripción. Esto es porque en ningún momento le hemos dicho que debe aparecer allí. Para hacer eso, debemos definir un elemento table, y luego un elemento tabular (hasta ahora hemos estado usando sólo tabular). Para hacer esto, simplemente empezamos definiendo table con \verb!\begin{table}[h]!, con su \verb!\end{table}! al final. En medio de los dos comandos es cuando definimos nuestra tabla con, por ejemplo, \verb!\begin{tabular}{|c|c|c|}! y \verb!\end{tabular}!, y hacemos una tabla como de costumbre.
 
-El parámetro \verb![h]! que hemos puesto se utiliza para que la tabla se coloque en el lugar correcto. Cuando se inserta una tabla o figura, si no se pone ningún parámetro, ésta se insertará en cualquier lugar disponible (usualmente, inicios o finales de página). Poniendo \verb![h]! se insertará en un lugar cercano del texto dónde se ha insertado (por regla general, se inserta en el lugar correcto donde se ha puesto en el editor). En caso que con \verb![h]! tampoco se inserte bien, \verb![H]! suele funcionar.
+El parámetro \verb![h]! que hemos puesto se utiliza para que la tabla se coloque en el lugar correcto. Cuando se inserta una tabla o figura, si no se pone ningún parámetro, ésta se insertará en cualquier lugar disponible (usualmente, inicios o finales de página, pudiendo quedar muy lejos de donde interesa que esté). Poniendo \verb![h]! se insertará en un lugar cercano del texto dónde se ha insertado (por regla general, se inserta en el lugar correcto donde se ha puesto en el editor). En caso que con \verb![h]! tampoco se inserte bien, \verb![H]! suele funcionar.
 
 Además, definiendo la tabla de este modo, con poner el comando \verb!\centering! después del \verb!\begin{table}[h]! queda toda la tabla centrada.
 
@@ -137,9 +137,9 @@ Para poner una descripción a la tabla, hay que utilizar el comando \verb!\capti
 
 Como se puede ver, la tabla aparece numerada según la sección donde está.
 
-Las tablas y las figuras (y realmente todo) se pueden citar en medio de un texto, como \ref{table_1}. Se se añade una etiqueta a una tabla, se puede citar en un texto. Para añadir una etiqueta, se utiliza el comando \verb!\label{etiqueta}! después de la caption (o antes, no importa). Y para referenciarla dentro del texto se utiliza \verb!\ref{etiqueta}!
+Las tablas y las figuras (y realmente todo) se pueden citar en medio de un texto, como \ref{table_1}. Se añade una etiqueta a una tabla, se puede citar en un texto. Para añadir una etiqueta, se utiliza el comando \verb!\label{etiqueta}! después de la caption (o antes, no importa). Y para referenciarla dentro del texto se utiliza \verb!\ref{etiqueta}!
 
-Cuando se debine table, también da opción a modificar un poco las líneas. En el siguiente caso, se han sustituido algunos \verb!\hline! por \verb!\toprule[2p]!, por \verb!\midrule[2p]!, o por \verb!\bottomrule[2p]!, según el caso.
+Cuando se define table, también da opción a modificar un poco las líneas. En el siguiente caso, se han sustituido algunos \verb!\hline! por \verb!\toprule[2p]!, por \verb!\midrule[2p]!, o por \verb!\bottomrule[2p]!, según el caso.
 
 \begin{table}[h]
 	\centering
@@ -388,7 +388,7 @@ Para solucionar esto, se puede utilizar el comando \verb!\begin{longtable}! y \v
 \end{longtable}
 \end{center}
 
-De este modo se obtiene una tabla que se corta al terminar la página y continúa en la página siguiente. Utilizando longtable también se pueden modoficar las líneas
+De este modo se obtiene una tabla que se corta al terminar la página y continúa en la página siguiente. Utilizando longtable también se pueden modificar las líneas.
 
 \begin{center}
 	\begin{longtable}{ p{2cm} | p{1cm} p{10cm} }

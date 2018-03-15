@@ -1,0 +1,59 @@
+\chapter{Ecuaciones y símbolos}
+
+Hay varios símbolos que no se pueden poner por defecto en un texto, como por ejemplo \#, \&, \$ o \%. Básicamente, son símbolos que están reservados para usos específicos, como el caso de \%, que se usa para comentar un trozo de texto.
+
+Para poder utilizar estos símbolos, hay que usar \verb!\! delante del símbolo, como si fuera un comando. De este modo, se inserta el símbolo en el texto. Por ejemplo, \verb!\&! inserta \& en el texto
+
+Hay otros símbolos, como \euro, \dag, \ss, o \copyright, que requieren utilizar un comando específico en vez de un carácter del teclado. Por ejemplo, \verb!\euro! inserta el símbolo \euro.
+
+Aquí está una lista con símbolos que pueden ser de utilidad, y como escribirlos. Para ver más símbolos, consultar internet o preguntar en el grupo de slack
+
+\$, con \verb!\$!
+
+\%, con \verb!\%!
+
+\_, con \verb!\_!
+
+\}, con \verb!\}!
+
+\{, con \verb!\{!
+
+\&, con \verb!\&!
+
+\#, con \verb!\#!
+
+\P, con \verb!\P!
+
+\S, con \verb!\S!
+
+\copyright, con \verb!\copyright!
+
+\dag, con \verb!\dag!
+
+\dots, con \verb!\dots!
+
+\pounds, con \verb!\pounds!
+
+\ae, con \verb!\ae!
+
+\AE, con \verb!\AE!
+
+\o, con \verb!\o!
+
+\O, con \verb!\O!
+
+\ss, con \verb!\ss!
+
+En LaTeX también se pueden insertar ecuaciones. Básicamente hay dos tipos. Se pueden insertar ecuaciones en una misma línea, o insertarlas aparte. Para insertar una ecuación en una misma línea, se utiliza el símbolo \$, de modo que poniendo \verb!$1+1=2$!, se puede obtener la siguiente ecuación $1+1=2$ en medio de un texto.
+
+Para insertar una ecuación aparte, se utilizan los comandos \verb!\begin{equation}! y \verb!\end{equation}!, y se pone la ecuación en medio de los dos.
+
+\begin{equation}
+1+1=2
+\end{equation}
+
+LaTeX dispone de un montón de expresiones y comandos para poder escribir cualquier tipo de ecuación. Consultando: \url{https://en.wikibooks.org/wiki/LaTeX/Mathematics} se puede ver una amplia lista de todos los comandos para ecuaciones. Un ejemplo de ecuación más complicada es:
+
+\begin{equation}
+\left[\vec{U}_{\infty}+\sum_{j=1}^{N}\Gamma_{j}\vec{v}_{ij}\right]\cdot\vec{n}_{i}=\vec{U}_{\infty}\cdot\vec{n}_{i}+\sum_{j=1}^{N}\Gamma_{j}\left[\vec{v}_{ij}\cdot\vec{n}_{i}\right]=0
+\end{equation}
