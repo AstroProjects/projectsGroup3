@@ -1,0 +1,73 @@
+\chapter{Formato del texto}
+
+Las opciones más importantespara dar formato al texto ya vienen, tanto en TeXmaker como en TeXstudio, en una columna a la izquierda del editor de texto (en la parte donde escribes, pues justo a la izquierda, es la columna que tiene una B, I, U arriba). Se puede hacer clic en la opción y luego introducir el texto, o seleccionar el texto y hacer clic.
+
+\textbf{Texto en negrita}. Se crea con \verb!\textbf{Texto en negrita}!
+
+\textit{Texto en cursiva}. Se crea con \verb!\textit{Texto en cursiva}!
+
+\underline{Texto subrayado}. Se crea con \verb!\underline{Texto subrayado}!
+
+Texto justificado para que ocupe todo el ancho de la hoja, siempre-y-cuando-no-sea-el-final-del-párrafo. Por defecto todos los textos se justifican automáticamente, de modo que no hay que preocuparse.
+
+\begin{flushleft}
+	Texto ajustado a la izquierda, de modo que aunque cuando se cambia de línea, no se ensancha la línea para que ocupe todo el ancho de la hoja, y da lugar a un borde derecho irregular. \newline
+	Para esto se pone el comando \verb!\begin{flushleft}! \newline
+	A continuación se escribe texto. \newline
+	Y se cierra con \verb!\end{flushleft}!
+\end{flushleft}
+
+\begin{flushright}
+	Texto ajustado a la derecha. \\
+	Para esto se pone el comando \verb!\begin{flushright}! \\
+	A continuación se escribe texto. \\
+	Y se cierra con \verb!\end{flushright}! \\
+	Para estos casos, si se quiere empezar una línea justo debajo, mejor con \verb!\\!
+\end{flushright}
+
+\begin{center}
+	Texto centrado.\\
+	Para esto se pone el comando \verb!\begin{center}! \\
+	A continuación se escribe texto. \\
+	Y se cierra con \verb!\end{center}!
+\end{center}
+
+Si se quiere generar un espacio vacío \hspace{1cm} tanto delante como en medio de un párrafo, se puede usar \verb!\hspace{1cm}!, que en este caso genera un espacio vacío de 1cm
+
+A continuación vienen ejemplos de texto a distintos tamaños de letra. 
+
+{\tiny Texto. Se hace con \verb!{\tiny Texto}!}
+
+{\scriptsize Texto. Se hace con \verb!{\scriptsize Texto}!}
+
+{\footnotesize Texto. Se hace con \verb!{\footnotesize Texto}!}
+
+{\small Texto. Se hace con \verb!{\small Texto}!}
+
+{\normalsize Texto. Se hace con \verb!{\normalsize Texto}!}
+
+{\large Texto. Se hace con \verb!{\large Texto}!}
+
+{\Large Texto. Se hace con \verb!{\Large Texto}!}
+
+{\LARGE Texto. Se hace con \verb!{\LARGE Texto}!}
+
+{\huge Texto. Se hace con \verb!{\huge Texto}!}
+
+{\Huge Texto. Se hace con \verb!{\Huge Texto}!}
+
+Finalmente, también se puede cambiar el color del texto, usando \verb!{\color[HTML]{XXXXXX} Texto}!, donde XXXXXX es el código del color
+
+{\color[HTML]{FF0000} Texto. Se hace con \verb!{\color[HTML]{FF0000} Texto}!}
+
+{\color[HTML]{00FF00} Texto. Se hace con \verb!{\color[HTML]{00FF00} Texto}!}
+
+{\color[HTML]{0000FF} Texto. Se hace con \verb!{\color[HTML]{0000FF} Texto}!}
+
+{\color[HTML]{FFFF00} Texto. Se hace con \verb!{\color[HTML]{FFFF00} Texto}!}
+
+{\color[HTML]{FF00FF} Texto. Se hace con \verb!{\color[HTML]{FF00FF} Texto}!}
+
+{\color[HTML]{00FFFF} Texto. Se hace con \verb!{\color[HTML]{00FFFF} Texto}!}
+
+{\color[HTML]{FFFFFF} Texto. Se hace con \verb!{\color[HTML]{FFFFFF} Texto}!}
