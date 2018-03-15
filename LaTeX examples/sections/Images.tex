@@ -1,0 +1,20 @@
+\chapter{Imágenes}
+
+Para incluir una imagen hay que utilizar el comando \verb!\includegraphics{./images/nombre}!, ./images/ es el directorio donde está guardada su imagen y "nombre" es el nombre de la imagen.
+
+\includegraphics{./images/HIRO}
+
+Como se puede ver, la imagen se ha insertado a tamaño original. Por tanto, se añade \verb![scale=escala]! al comando para escalarla, quedando \verb!\includegraphics[scale=escala]{./images/nombre}!, donde escala puede ser la escala que se quiera, tanto para agrandar (más grande que 1) como para empequeñecer (más pequeño que 1).
+
+\includegraphics[scale=0.35]{./images/HIRO}
+
+Del mismo modo que con las tablas, se puede centrar la imagen, y añadirle una descripción y una etiqueta para citarla. Para ello, se crea un elemento figure con \verb!\begin{figure}[h]! y \verb!\end{figure}!. Entre los dos comandos se coloca \verb!\centering!, \verb!\includegraphics[scale=escala]{./images/nombre}!, \verb!\caption[Texto corto]{Texto largo}! y \verb!\label{etiqueta}!. Mara más información sobre los comandos, consultar el capítulo de tablas
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.25]{./images/HIRO}
+	\caption[HIRO logo]{Logotipo de HIRO}
+	\label{hiro_logo}
+\end{figure}
+
+De este modo la imagen aparece en la lista de figuras, y se puede citar \ref{hiro_logo} con \verb!\ref{etiqueta}!.

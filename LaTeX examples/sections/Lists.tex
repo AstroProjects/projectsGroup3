@@ -1,0 +1,27 @@
+\chapter{Lists}
+
+Para empezar una lista, usad el comando \verb!\begin{itemize}! \\
+A continuación poned cada punto de la lista con \verb!\item! \\
+Y cerrad la lista con \verb!\end{itemize}!
+
+\begin{itemize}
+	\item Punto uno de la lista
+	\item Punto dos de la lista. Como se puede ver, se les puede añadir un título
+	\item Otro punto de la lista. Estos puntos pueden ser todo lo extenso que se quiera, ya que cuando se termine una línea, empezaran ya alineados con el principio del punto, así que no hace falta preocuparse.
+	\item[*] Como se puede ver, se puede cambiar el punto por defecto por otro símbolo.
+	\item[-] Como este
+	\item[P] Incluso letras
+	\item[] O el vacío
+	\item Esto se hace usando \verb!\item[]! y poniendo algo entre los \verb![]!
+	
+\end{itemize}
+
+Aparta de una lista por puntos, se puede crear una lista numerada. El comando es el mismo, solo que hay que sustituir "itemize" por "enumerate"
+
+\begin{enumerate}
+	\item Primer punto de la lista
+	\item Segundo punto de la lista
+	\item Tercero
+	\item[*] Como se puede ver a la enumeración también se le puede cambiar el símbolo de delante.
+	\item Haciendo esto, la numeración sigue con el siguiente punto numerado (es decir, que el punto sin numerar no gasta ese número)
+\end{enumerate}

@@ -1,0 +1,407 @@
+\chapter{Tablas}
+
+Para crear una tabla, se puede usar el propio asistente del TeXstudio o TeXmaker. Se encuentra arriba en la ventana de Wizards (en inglés) o Asistentes (en español).
+
+Aún así, la forma básica de una tabla es la siguiente:
+
+Se empieza con el comando \verb!\begin{tabular}{|c|c|c|}!, donde \verb!{|c|c|c|}! quiere decir que hay 3 columnas (hay 3 letras) centradas (las letras son c) con líneas verticales separándolas (de ahí las | entre letras) además de líneas verticales a izquierda y derecha de la tabla (las | del principio y final) 
+
+A continuación vienen las filas de la tabla. Se debe rellenar una fila en cada línea (se pueden dejar líneas en blanco en el editor de texto, no pasa nada, pero cada fila de la tabla debe estar en la misma línea). Los términos de las distintas columnas se separan mediante \&. De modo que si queremos escribir 1, 2 y 3 en la primera fila debemos poner 1 \& 2 \& 3. Para terminar la fila se usa \verb!\\!. El número de filas de la tabla puede ser libre, sólo viene definido por las filas que escribas en el editor de texto.
+
+Si se quiere poner una línea horizontal entre filas, se usa \verb!\hline!. Si se pone el comando antes de la primera fila, o al final de la segunda, se crea la línea superior e inferior de la tabla
+
+Para terminar, se usa \verb!\end{tabular}!
+
+Este es un ejemplo de tabla:
+
+\begin{tabular}{|c|c|c|}
+	\hline 
+	Columna 1 & Columna 2 & Columna 3 \\ 
+	\hline 
+	1 & 2 & 3 \\ 
+	\hline 
+	4 & 5 & 6 \\ 
+	\hline 
+	7 & 8 & 9 \\ 
+	\hline 
+\end{tabular} 
+
+Como se puede ver, la tabla está a la izquierda de la hoja. Para centrarla, se puede centrar del mismo modo que se centra el texto, con los comandos \verb!\begin{center}! y \verb!\end{center}!
+
+\begin{center}
+	\begin{tabular}{|c|c|c|}
+	\hline 
+	Columna 1 & Columna 2 & Columna 3 \\ 
+	\hline 
+	1 & 2 & 3 \\ 
+	\hline 
+	4 & 5 & 6 \\ 
+	\hline 
+	7 & 8 & 9 \\ 
+	\hline 
+\end{tabular} 
+\end{center}
+
+Otra cosa que se puede ver es que todas las casillas están centradas. Esto se puede cambiar si se pone otra letra al empezar la tabla. La c es de centrado, la l es de iquierda y la r es de derecha. En el asistente se puede hacer con bastante facilidad. El siguiente ejemplo tiene cada columna alineada diferente:
+
+\begin{center}
+	\begin{tabular}{|l|c|r|}
+		\hline 
+		Columna 1 & Columna 2 & Columna 3 \\ 
+		\hline 
+		1 & 2 & 3 \\ 
+		\hline 
+		4 & 5 & 6 \\ 
+		\hline 
+		7 & 8 & 9 \\ 
+		\hline 
+	\end{tabular} 
+\end{center}
+
+Un problema común de las tablas es que el ancho es automático, de modo que si se rellenan las tablas con frases
+
+\begin{center}
+	\begin{tabular}{|l|l|}
+	\hline 
+	Punto 1 & Si se escribe un texto bastante largo \\ 
+	\hline 
+	Punto 2 & Puede verse como el ancho de la tabla va aumentando con el texto \\ 
+	\hline 
+	Punto 3 & Y puede llegar a un punto el que el texto es tan largo que no cabe en la hoja y entonces queda cortado \\ 
+	\hline 
+\end{tabular} 
+\end{center}
+
+Esto se puede solucionar fijando el ancho de la tabla. El asistente de tablas también permite hacer esto. Se hace sustituyendo la letra por \verb!p{1cm}!, donde 1cm es el ancho de la columna, pero puede ser cualquier cantidad, como 7cm, 15cm, o 5.4cm
+
+\begin{center}
+	\begin{tabular}{|p{2cm}|p{10cm}|}
+	\hline 
+	Punto 1 & Si se escribe un texto bastante largo \\ 
+	\hline 
+	Punto 2 & Puede verse como el ancho de la tabla va aumentando con el texto \\ 
+	\hline 
+	Punto 3 & Y puede llegar a un punto el que el texto es tan largo que no cabe en la hoja y entonces queda cortado \\ 
+	\hline 
+\end{tabular} 
+\end{center}
+
+Es importante destacar que si se utiliza \verb!p{1cm}!, el texto de la columna queda automáticamente justificado. Si se quiere hacer que esté alineado a la izquierda (sin justificar), a la derecha, o centrado, se debe usar la opción del asistente, o usar para alinear a la izquierda \verb!>{\raggedright\arraybackslash}p{1cm}!, para centrar \verb!>{\centering\arraybackslash}p{1cm}!, y para la derecha \verb!>{\raggedleft\arraybackslash}p{1cm}!.
+
+\begin{center}
+	\begin{tabular}{|p{2.5cm}|>{\raggedright\arraybackslash}p{2.5cm}|>{\centering\arraybackslash}p{2.5cm}|>{\raggedleft\arraybackslash}p{2.5cm}|}
+	\hline 
+	Columna justificada & Columna a la izquierda & Columna centrada & Columna a la derecha \\ 
+	\hline 
+	Texto de ancho fijo y justificado & Texto de ancho fijo y alineado a la izquierda & Texto de ancho fijo y centrado & Texto de ancho fijo y alineado a la derecha \\ 
+	\hline 
+\end{tabular} 
+\end{center}
+
+Finalmente, se puede cambiar un poco el formato de las líneas de las tablas. Si se prescinden de las líneas verticales | al definir la tabla, queda una tabla sin líneas verticales. También se pueden poner solo algunas de ellas.
+
+Además, se puede dar negrita, cambiar el tamaño del texto y otras opciones de dar formato al texto
+
+\begin{center}
+	\begin{tabular}{ p{2cm} | p{1cm} | p{10cm} }
+		\cellcolor[HTML]{EFEFEF}\textbf{Puntos} & \cellcolor[HTML]{EFEFEF}\textbf{Hora} & \cellcolor[HTML]{EFEFEF}\textbf{Información} \\
+		\hline 
+		\textit{Punto 1} & \underline{10:00} & Hay que hacer la tarea 1 \\ 
+		\hline 
+		\textit{Punto 2} & \underline{12:00} &  También estaría bien hacer la tarea 2 \\ 
+		\hline 
+		\textit{Punto 3} & \underline{23:59} & Ya si eso mañana hacemos la tarea 3 \newline {\scriptsize Ya si eso} \\ 
+	\end{tabular} 
+\end{center}
+
+Un tema del que aún no hemos hablado es que ninguna de las tablas anteriores aparece en el índice de tablas, ni tampoco tiene número ni descripción. Esto es porque en ningún momento le hemos dicho que debe aparecer allí. Para hacer eso, debemos definir un elemento table, y luego un elemento tabular (hasta ahora hemos estado usando sólo tabular). Para hacer esto, simplemente empezamos definiento table con \verb!\begin{table}[h]!, con su \verb!\end{table}! al final. En medio de los dos comandos es cuando definimos nuestra tabla con, por ejemplo, \verb!\begin{tabular}! y \verb!\end{tabular}{|c|c|c|}!, y hacemos una tabla como de costumbre.
+
+El parámetro \verb![h]! que hemos puesto se utiliza para que la tabla se coloque en el lugar correcto. Cuando se inserta una tabla o figura, si no se pone ningún parámetro, ésta se insertará en cualquier lugar disponible (usualmente, inicios o finales de página). Poniendo \verb![h]! se insertará en un lugar cercano del texto dónde se ha insertado (por regla general, se inserta en el lugar correcto donde se ha puesto en el editor). En caso que con \verb![h]! tampoco se inserte bien, \verb![H]! suele funcionar.
+
+Además, definiendo la tabla de este modo, con poner el comando \verb!\centering! después del \verb!\begin{table}[h]! queda toda la tabla centrada.
+
+Para poner una descripción a la tabla, hay que utilizar el comando \verb!\caption{Text}! antes o después de definir la tabla (es decir, dentro de table, pero antes o después de tabular). El texto que se introduzca es el que aparecerá debajo (o antes) de la tabla, y también aparecerá en la Lista de tablas. Si las descripciones son muy largas, se puede usar \verb!\caption[Texto corto]{Text largo}!. El texto corto aparecerá en la lista de tablas, mientras que el texto largo aparecerá junto a la tabla
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|c|c|c|}
+		\hline
+		1 & 2 & 3 \\
+		\hline
+		4 & 5 & 6 \\
+		\hline
+	\end{tabular}
+	\caption[Tabla con descripción]{Tabla con una descripción debajo, que además es muy larga y por tanto se ha puesto que en la Lista de tablas aparezca otra más corta}
+	\label{table_1}
+\end{table}
+
+Como se puede ver, la tabla aparece numerada según la sección donde está.
+
+Las tablas y las figuras (y realmente todo) se pueden citar en medio de un texto, como \ref{table_1}. Se se añade una etiqueta a una tabla, se puede citar en un texto. Para añadir una etiqueta, se utiliza el comando \verb!\label{etiqueta}! después de la caption (o antes, no importa). Y para referenciarla dentro del texto se utiliza \verb!\ref{etiqueta}!
+
+Cuando se debine table, también da opción a modificar un poco las líneas. En el siguiente caso, se han sustituido algunos \verb!\hline! por \verb!\toprule[2p]!, por \verb!\midrule[2p]!, o por \verb!\bottomrule[2p]!, según el caso.
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{ p{2cm} | p{1cm} | p{10cm} }
+		\toprule[2pt]
+		\cellcolor[HTML]{EFEFEF}\textbf{Puntos} & \cellcolor[HTML]{EFEFEF}\textbf{Hora} & \cellcolor[HTML]{EFEFEF}\textbf{Información} \\
+		\midrule[2pt]
+		\textit{Punto 1} & \underline{10:00} & Hay que hacer la tarea 1 \\ 
+		\hline 
+		\textit{Punto 2} & \underline{12:00} &  También estaría bien hacer la tarea 2 \\ 
+		\hline 
+		\textit{Punto 3} & \underline{23:59} & Ya si eso mañana hacemos la tarea 3 \newline {\scriptsize Ya si eso} \\ 
+		\bottomrule[2pt]
+	\end{tabular}
+	\caption[Tabla tuneada]{Tabla tuneada}
+	\label{table_2}
+\end{table}
+
+Finalmente, un problema que puede ocurrir con las tablas es que sean demasiado largas. Como en este caso
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{|c|c|}
+		\hline
+		1 & A \\
+		\hline
+		2 & B \\
+		\hline
+		3 & C \\
+		\hline
+		4 & D \\
+		\hline
+		5 & E \\
+		\hline
+		6 & F \\
+		\hline
+		7 & G \\
+		\hline
+		8 & H \\
+		\hline
+		9 & I \\
+		\hline
+		10 & J \\
+		\hline
+		11 & K \\
+		\hline
+		12 & L \\
+		\hline
+		13 & M \\
+		\hline
+		14 & N \\
+		\hline
+		15 & O \\
+		\hline
+		16 & P \\
+		\hline
+		17 & Q \\
+		\hline
+		18 & R \\
+		\hline
+		19 & S \\
+		\hline
+		20 & T \\
+		\hline
+		21 & U \\
+		\hline
+		22 & V \\
+		\hline
+		23 & W \\
+		\hline
+		24 & X \\
+		\hline
+		25 & Y \\
+		\hline
+		26 & Z \\
+		\hline
+		1 & A \\
+		\hline
+		2 & B \\
+		\hline
+		3 & C \\
+		\hline
+		4 & D \\
+		\hline
+		5 & E \\
+		\hline
+		6 & F \\
+		\hline
+		7 & G \\
+		\hline
+		8 & H \\
+		\hline
+		9 & I \\
+		\hline
+		10 & J \\
+		\hline
+		11 & K \\
+		\hline
+		12 & L \\
+		\hline
+		13 & M \\
+		\hline
+		14 & N \\
+		\hline
+		15 & O \\
+		\hline
+		16 & P \\
+		\hline
+		17 & Q \\
+		\hline
+		18 & R \\
+		\hline
+		19 & S \\
+		\hline
+		20 & T \\
+		\hline
+		21 & U \\
+		\hline
+		22 & V \\
+		\hline
+		23 & W \\
+		\hline
+		24 & X \\
+		\hline
+		25 & Y \\
+		\hline
+		26 & Z \\
+		\hline
+	\end{tabular}
+	\caption[Tabla muy larga]{Tabla muy larga que se sale de la hoja}
+	\label{table_3}
+\end{table}
+
+Para solucionar esto, se puede utilizar el comando \verb!\begin{longtable}! y \verb!\end{longtable}!. El comando sustituye tanto a table como a tabular, de modo que solo hay que crear un elemento. No obstante, con longtable no se puede poner el \verb!\centering! después del \verb!\begin{longtable}! y si se pone antes altera todo lo que venga después de la tabla, de modo que hay que centrar la tabla. Las descripciones y las etiquetas se ponen antes del \verb!\end{longtable}!
+
+\begin{center}
+\centering
+	\begin{longtable}{|c|c|}
+	\hline
+	1 & A \\
+	\hline
+	2 & B \\
+	\hline
+	3 & C \\
+	\hline
+	4 & D \\
+	\hline
+	5 & E \\
+	\hline
+	6 & F \\
+	\hline
+	7 & G \\
+	\hline
+	8 & H \\
+	\hline
+	9 & I \\
+	\hline
+	10 & J \\
+	\hline
+	11 & K \\
+	\hline
+	12 & L \\
+	\hline
+	13 & M \\
+	\hline
+	14 & N \\
+	\hline
+	15 & O \\
+	\hline
+	16 & P \\
+	\hline
+	17 & Q \\
+	\hline
+	18 & R \\
+	\hline
+	19 & S \\
+	\hline
+	20 & T \\
+	\hline
+	21 & U \\
+	\hline
+	22 & V \\
+	\hline
+	23 & W \\
+	\hline
+	24 & X \\
+	\hline
+	25 & Y \\
+	\hline
+	26 & Z \\
+	\hline
+	1 & A \\
+	\hline
+	2 & B \\
+	\hline
+	3 & C \\
+	\hline
+	4 & D \\
+	\hline
+	5 & E \\
+	\hline
+	6 & F \\
+	\hline
+	7 & G \\
+	\hline
+	8 & H \\
+	\hline
+	9 & I \\
+	\hline
+	10 & J \\
+	\hline
+	11 & K \\
+	\hline
+	12 & L \\
+	\hline
+	13 & M \\
+	\hline
+	14 & N \\
+	\hline
+	15 & O \\
+	\hline
+	16 & P \\
+	\hline
+	17 & Q \\
+	\hline
+	18 & R \\
+	\hline
+	19 & S \\
+	\hline
+	20 & T \\
+	\hline
+	21 & U \\
+	\hline
+	22 & V \\
+	\hline
+	23 & W \\
+	\hline
+	24 & X \\
+	\hline
+	25 & Y \\
+	\hline
+	26 & Z \\
+	\hline
+	\caption[Tabla muy larga arreglada]{Tabla muy larga que continúa en la siguiente hoja}
+	\label{table_4}
+\end{longtable}
+\end{center}
+
+De este modo se obtiene una tabla que se corta al terminar la página y continúa en la página siguiente. Utilizando longtable también se pueden modoficar las líneas
+
+\begin{center}
+	\begin{longtable}{ p{2cm} | p{1cm} p{10cm} }
+		\toprule[2pt]
+		\cellcolor[HTML]{EFEFEF}\textbf{Puntos} & \cellcolor[HTML]{EFEFEF}\textbf{Hora} & \cellcolor[HTML]{EFEFEF}\textbf{Información} \\
+		\midrule[2pt]
+		\textit{Punto 1} & \underline{10:00} & Hay que hacer la tarea 1 \\ 
+		\hline 
+		\textit{Punto 2} & \underline{12:00} &  También estaría bien hacer la tarea 2 \\ 
+		\hline 
+		\textit{Punto 3} & \underline{23:59} & Ya si eso mañana hacemos la tarea 3 \newline {\scriptsize Ya si eso} \\ 
+		\bottomrule[2pt]
+		\caption[Tabla tuneada hecha con longtable]{Tabla tuneada hecha con longtable}
+		\label{table_5}
+	\end{longtable}
+\end{center}
