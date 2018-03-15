@@ -1,0 +1,421 @@
+\chapter{Ejemplos de tablas}
+
+A continuación están algunos ejemplos de tablas, ya centradas, con descripción y etiqueta. Entrando en el archivo \textit{TablesExamples.tex} que está en la carpeta \textit{sections} se puede copiar el código de cada tabla para utilizar donde se quiera.
+
+Cada tabla vendrá con un título, un texto introductorio, y la tabla en sí.
+
+\section*{Tabla estándar con ancho automático y columnas centrada}
+
+La siguiente tabla tiene el formato estándar de líneas. Las columnas tienen ancho automático. El texto está centrado.
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|c|c|c|}
+		\hline
+		Texto 1 & Tarea 1 & Problema 1 \\
+		\hline
+		Texto 2 & Tarea 2 & Problema 2 \\
+		\hline
+		Texto 3 & Tarea 3 & Problema 3, el cuál es un problema un poco largo \\
+		\hline
+		Texto 4 & Tarea 4 & Problema 4 \\
+		\hline
+	\end{tabular}
+	\caption[Tabla estándar con ancho automático y columnas centradas]{Esta tabla tiene el formato estándar de líneas. Las columnas tienen ancho automático. El texto está centrado.}
+	\label{table1}
+\end{table}
+
+\section*{Tabla estándar con ancho automático y columnas alineadas a la izquierda}
+
+La siguiente tabla tiene el formato estándar de líneas. Las columnas tienen ancho automático. El texto está alineado a la izquierda.
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|l|l|l|}
+		\hline
+		Texto 1 & Tarea 1 & Problema 1 \\
+		\hline
+		Texto 2 & Tarea 2 & Problema 2 \\
+		\hline
+		Texto 3 & Tarea 3 & Problema 3, el cuál es un problema un poco largo \\
+		\hline
+		Texto 4 & Tarea 4 & Problema 4 \\
+		\hline
+	\end{tabular}
+	\caption[Tabla estándar con ancho automático y columnas alineadas a la izquierda]{Esta tabla tiene el formato estándar de líneas. Las columnas tienen ancho automático. El texto está alineado a la izquierda.}
+	\label{table2}
+\end{table}
+
+\section*{Tabla estándar con ancho automático y columnas alineadas a la izquierda excepto la última alineada a la derecha}
+
+La siguiente tabla tiene el formato estándar de líneas. Las columnas tienen ancho automático. El texto está alineado a la izquierda excepto en la última columna que está alineado a la derecha.
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|l|l|r|}
+		\hline
+		Texto 1 & Tarea 1 & Problema 1 \\
+		\hline
+		Texto 2 & Tarea 2 & Problema 2 \\
+		\hline
+		Texto 3 & Tarea 3 & Problema 3, el cuál es un problema un poco largo \\
+		\hline
+		Texto 4 & Tarea 4 & Problema 4 \\
+		\hline
+	\end{tabular}
+	\caption[Tabla estándar con ancho automático y columnas alineadas a la izquierda excepto la última alineada a la derecha]{Esta tabla tiene el formato estándar de líneas. Las columnas tienen ancho automático. El texto está alineado a la izquierda excepto en la última columna que está alineado a la derecha.}
+	\label{table3}
+\end{table}
+
+\section*{Tabla estándar con ancho fijo y columnas justificadas}
+
+La siguiente tabla tiene el formato estándar de líneas. Las columnas tienen ancho fijo. El texto está justificado.
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|p{2cm}|p{2.5cm}|p{5cm}|}
+		\hline
+		Texto 1 & Tarea 1 & Problema 1 \\
+		\hline
+		Texto 2 & Tarea 2 & Problema 2 \\
+		\hline
+		Texto 3 & Tarea 3 & Problema 3, el cuál es un problema un poco largo \\
+		\hline
+		Texto 4 & Tarea 4 & Problema 4 \\
+		\hline
+	\end{tabular}
+	\caption[Tabla estándar con ancho fijo y columnas justificadas]{Esta tabla tiene el formato estándar de líneas. Las columnas tienen ancho fijo. El texto está justificado.}
+	\label{table4}
+\end{table}
+
+\section*{Tabla estándar con ancho fijo y columnas alineadas a la izquierda}
+
+La siguiente tabla tiene el formato estándar de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda.
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|>{\raggedright\arraybackslash}p{2cm}|>{\raggedright\arraybackslash}p{2.5cm}|>{\raggedright\arraybackslash}p{5cm}|}
+		\hline
+		Texto 1 & Tarea 1 & Problema 1 \\
+		\hline
+		Texto 2 & Tarea 2 & Problema 2 \\
+		\hline
+		Texto 3 & Tarea 3 & Problema 3, el cuál es un problema un poco largo \\
+		\hline
+		Texto 4 & Tarea 4 & Problema 4 \\
+		\hline
+	\end{tabular}
+	\caption[Tabla estándar con ancho fijo y columnas alineadas a la izquierda]{Esta tabla tiene el formato estándar de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda.}
+	\label{table5}
+\end{table}
+
+\section*{Tabla estándar con ancho fijo y columnas alineadas a la izquierda excepto la última alineada a la derecha}
+
+La siguiente tabla tiene el formato estándar de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda excepto en la última columna que está alineado a la derecha.
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|>{\raggedright\arraybackslash}p{2cm}|>{\raggedright\arraybackslash}p{2.5cm}|>{\raggedleft\arraybackslash}p{5cm}|}
+		\hline
+		Texto 1 & Tarea 1 & Problema 1 \\
+		\hline
+		Texto 2 & Tarea 2 & Problema 2 \\
+		\hline
+		Texto 3 & Tarea 3 & Problema 3, el cuál es un problema un poco largo \\
+		\hline
+		Texto 4 & Tarea 4 & Problema 4 \\
+		\hline
+	\end{tabular}
+	\caption[Tabla estándar con ancho fijo y columnas alineadas a la izquierda excepto la última alineada a la derecha]{Esta tabla tiene el formato estándar de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda excepto en la última columna que está alineado a la derecha.}
+	\label{table6}
+\end{table}
+
+\section*{Tabla con nuevo formato con ancho automático y columnas centrada}
+
+La siguiente tabla tiene el nuevo formato de líneas. Las columnas tienen ancho automático. El texto está centrado.
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{c c c}
+		\toprule[2pt]
+		\textbf{Texto 1} & \textbf{Tarea 1} & \textbf{Problema 1} \\
+		\midrule[1.5pt]
+		Texto 2 & Tarea 2 & Problema 2 \\
+		\hline
+		Texto 3 & Tarea 3 & Problema 3, el cuál es un problema un poco largo \\
+		\hline
+		Texto 4 & Tarea 4 & Problema 4 \\
+		\bottomrule[2pt]
+	\end{tabular}
+	\caption[Tabla con nuevo formato con ancho automático y columnas centradas]{Esta tabla tiene el nuevo formato de líneas. Las columnas tienen ancho automático. El texto está centrado.}
+	\label{table7}
+\end{table}
+
+\section*{Tabla con nuevo formato con ancho automático y columnas alineadas a la izquierda}
+
+La siguiente tabla tiene el nuevo formato de líneas. Las columnas tienen ancho automático. El texto está alineado a la izquierda.
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{l l l}
+		\toprule[2pt]
+		\textbf{Texto 1} & \textbf{Tarea 1} & \textbf{Problema 1} \\
+		\midrule[1.5pt]
+		Texto 2 & Tarea 2 & Problema 2 \\
+		\hline
+		Texto 3 & Tarea 3 & Problema 3, el cuál es un problema un poco largo \\
+		\hline
+		Texto 4 & Tarea 4 & Problema 4 \\
+		\bottomrule[2pt]
+	\end{tabular}
+	\caption[Tabla con nuevo formato con ancho automático y columnas alineadas a la izquierda]{Esta tabla tiene el nuevo formato de líneas. Las columnas tienen ancho automático. El texto está alineado a la izquierda.}
+	\label{table8}
+\end{table}
+
+\section*{Tabla con nuevo formato con ancho automático y columnas alineadas a la izquierda excepto la última alineada a la derecha}
+
+La siguiente tabla tiene el nuevo formato de líneas. Las columnas tienen ancho automático. El texto está alineado a la izquierda excepto en la última columna que está alineado a la derecha.
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{l l r}
+		\toprule[2pt]
+		\textbf{Texto 1} & \textbf{Tarea 1} & \textbf{Problema 1} \\
+		\midrule[1.5pt]
+		Texto 2 & Tarea 2 & Problema 2 \\
+		\hline
+		Texto 3 & Tarea 3 & Problema 3, el cuál es un problema un poco largo \\
+		\hline
+		Texto 4 & Tarea 4 & Problema 4 \\
+		\bottomrule[2pt]
+	\end{tabular}
+	\caption[Tabla con nuevo formato con ancho automático y columnas alineadas a la izquierda excepto la última alineada a la derecha]{Esta tabla tiene el nuevo formato de líneas. Las columnas tienen ancho automático. El texto está alineado a la izquierda excepto en la última columna que está alineado a la derecha.}
+	\label{table9}
+\end{table}
+
+\section*{Tabla con nuevo formato con ancho fijo y columnas justificadas}
+
+La siguiente tabla tiene el nuevo formato de líneas. Las columnas tienen ancho fijo. El texto está justificado.
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{p{2cm} p{2.5cm} p{5cm}}
+		\toprule[2pt]
+		\textbf{Texto 1} & \textbf{Tarea 1} & \textbf{Problema 1} \\
+		\midrule[1.5pt]
+		Texto 2 & Tarea 2 & Problema 2 \\
+		\hline
+		Texto 3 & Tarea 3 & Problema 3, el cuál es un problema un poco largo \\
+		\hline
+		Texto 4 & Tarea 4 & Problema 4 \\
+		\bottomrule[2pt]
+	\end{tabular}
+	\caption[Tabla con nuevo formato con ancho fijo y columnas justificadas]{Esta tabla tiene el nuevo formato de líneas. Las columnas tienen ancho fijo. El texto está justificado.}
+	\label{table10}
+\end{table}
+
+\section*{Tabla con nuevo formato con ancho fijo y columnas alineadas a la izquierda}
+
+La siguiente tabla tiene el nuevo formato de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda.
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{>{\raggedright\arraybackslash}p{2cm} >{\raggedright\arraybackslash}p{2.5cm} >{\raggedright\arraybackslash}p{5cm}}
+		\toprule[2pt]
+		\textbf{Texto 1} & \textbf{Tarea 1} & \textbf{Problema 1} \\
+		\midrule[1.5pt]
+		Texto 2 & Tarea 2 & Problema 2 \\
+		\hline
+		Texto 3 & Tarea 3 & Problema 3, el cuál es un problema un poco largo \\
+		\hline
+		Texto 4 & Tarea 4 & Problema 4 \\
+		\bottomrule[2pt]
+	\end{tabular}
+	\caption[Tabla con nuevo formato con ancho fijo y columnas alineadas a la izquierda]{Esta tabla tiene el nuevo formato de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda.}
+	\label{table11}
+\end{table}
+
+\section*{Tabla con nuevo formato con ancho fijo y columnas alineadas a la izquierda excepto la última alineada a la derecha}
+
+La siguiente tabla tiene el nuevo formato de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda excepto en la última columna que está alineado a la derecha.
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{>{\raggedright\arraybackslash}p{2cm} >{\raggedright\arraybackslash}p{2.5cm} >{\raggedleft\arraybackslash}p{5cm}}
+		\toprule[2pt]
+		\textbf{Texto 1} & \textbf{Tarea 1} & \textbf{Problema 1} \\
+		\midrule[1.5pt]
+		Texto 2 & Tarea 2 & Problema 2 \\
+		\hline
+		Texto 3 & Tarea 3 & Problema 3, el cuál es un problema un poco largo \\
+		\hline
+		Texto 4 & Tarea 4 & Problema 4 \\
+		\bottomrule[2pt]
+	\end{tabular}
+	\caption[Tabla con nuevo formato con ancho fijo y columnas alineadas a la izquierda excepto la última alineada a la derecha]{Esta tabla tiene el nuevo formato de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda excepto en la última columna que está alineado a la derecha.}
+	\label{table12}
+\end{table}
+
+\section*{Longtable con nuevo formato con ancho fijo y columnas justificadas}
+
+La siguiente longtable tiene el nuevo formato de líneas. Las columnas tienen ancho fijo. El texto está justificado.
+
+\begin{center}
+	\begin{longtable}{p{2cm} p{2.5cm} p{5cm}}
+		\toprule[2pt]
+		\textbf{Texto 1} & \textbf{Tarea 1} & \textbf{Problema 1} \\
+		\midrule[1.5pt] \endhead
+		Texto 2 & Tarea 2 & Problema 2 \\
+		\hline
+		Texto 3 & Tarea 3 & Problema 3, el cuál es un problema un poco largo \\
+		\hline
+		Texto 4 & Tarea 4 & Problema 4 \\
+		\bottomrule[2pt]
+		\caption[Longtable con nuevo formato con ancho fijo y columnas justificadas]{Esta longtable tiene el nuevo formato de líneas. Las columnas tienen ancho fijo. El texto está justificado.}
+		\label{table13}
+	\end{longtable}
+\end{center}
+
+\section*{Longtable con nuevo formato con ancho fijo y columnas alineadas a la izquierda}
+
+La siguiente longtable tiene el nuevo formato de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda.
+
+\begin{center}
+	\begin{longtable}{>{\raggedright\arraybackslash}p{2cm} >{\raggedright\arraybackslash}p{2.5cm} >{\raggedright\arraybackslash}p{5cm}}
+		\toprule[2pt]
+		\textbf{Texto 1} & \textbf{Tarea 1} & \textbf{Problema 1} \\
+		\midrule[1.5pt] \endhead
+		Texto 2 & Tarea 2 & Problema 2 \\
+		\hline
+		Texto 3 & Tarea 3 & Problema 3, el cuál es un problema un poco largo \\
+		\hline
+		Texto 4 & Tarea 4 & Problema 4 \\
+		\bottomrule[2pt]
+		\caption[Longtable con formato con ancho fijo y columnas alineadas a la izquierda]{Esta longtable tiene el nuevo formato de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda.}
+		\label{table14}
+	\end{longtable}
+\end{center}
+
+\section*{Longtable con nuevo formato con ancho fijo y columnas alineadas a la izquierda excepto la última alineada a la derecha}
+
+La siguiente longtable tiene el nuevo formato de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda excepto en la última columna que está alineado a la derecha.
+
+\begin{center}
+	\begin{longtable}{>{\raggedright\arraybackslash}p{2cm} >{\raggedright\arraybackslash}p{2.5cm} >{\raggedleft\arraybackslash}p{5cm}}
+		\toprule[2pt]
+		\textbf{Texto 1} & \textbf{Tarea 1} & \textbf{Problema 1} \\
+		\midrule[1.5pt] \endhead
+		Texto 2 & Tarea 2 & Problema 2 \\
+		\hline
+		Texto 3 & Tarea 3 & Problema 3, el cuál es un problema un poco largo \\
+		\hline
+		Texto 4 & Tarea 4 & Problema 4 \\
+		\bottomrule[2pt]
+		\caption[Longtable con formato con ancho fijo y columnas alineadas a la izquierda excepto la última alineada a la derecha]{Esta longtable tiene el nuevo formato de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda excepto en la última columna que está alineado a la derecha.}
+		\label{table15}
+	\end{longtable}
+\end{center}
+
+\section*{Tabla estándar con ancho fijo y columnas alineadas a la izquierda y distintas líneas por celda}
+
+La siguiente tabla tiene el formato estándar de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda. Hay celdas con varias líneas
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|>{\raggedright\arraybackslash}p{2cm}|>{\raggedright\arraybackslash}p{2.5cm}|>{\raggedright\arraybackslash}p{5cm}|}
+		\hline
+		Texto 1 & Tarea 1 & Problema 1 \\
+		\hline
+		Texto 2 & Tarea 2 & Problema 2.1 \newline Problema 2.2 \\
+		\hline
+		Texto 3 & Tarea 3.1 \newline Tarea 3.2 \newline Tarea 3.3 & Problema 3, el cuál es un problema un poco largo \\
+		\hline
+		Texto 4 & Tarea 4.1 \newline Tarea 4.2 & Problema 4.1 \newline Problema 4.2 \newline Problema 4.3 \\
+		\hline
+	\end{tabular}
+	\caption[Tabla estándar con ancho fijo y columnas alineadas a la izquierda y distintas líneas por celda]{Esta tabla tiene el formato estándar de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda. Hay celdas con varias líneas}
+	\label{table16}
+\end{table}
+
+\section*{Tabla con nuevo formato con ancho fijo y columnas alineadas a la izquierda y distintas líneas por celda}
+
+La siguiente tabla tiene el nuevo formato de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda. Hay celdas con varias líneas
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{>{\raggedright\arraybackslash}p{2cm} >{\raggedright\arraybackslash}p{2.5cm} >{\raggedright\arraybackslash}p{5cm}}
+		\toprule[2pt]
+		\textbf{Texto 1} & \textbf{Tarea 1} & \textbf{Problema 1} \\
+		\midrule[1.5pt]
+		Texto 2 & Tarea 2 & Problema 2.1 \newline Problema 2.2 \\
+		\hline
+		Texto 3 & Tarea 3.1 \newline Tarea 3.2 \newline Tarea 3.3 & Problema 3, el cuál es un problema un poco largo \\
+		\hline
+		Texto 4 & Tarea 4.1 \newline Tarea 4.2 & Problema 4.1 \newline Problema 4.2 \newline Problema 4.3 \\
+		\bottomrule[2pt]
+	\end{tabular}
+	\caption[Tabla con nuevo formato con ancho fijo y columnas alineadas a la izquierda y distintas líneas por celda]{Esta tabla tiene el nuevo formato de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda. Hay celdas con varias líneas}
+	\label{table17}
+\end{table}
+
+\section*{Longtable con nuevo formato con ancho fijo y columnas alineadas a la izquierda y distintas líneas por celda}
+
+La siguiente longtable tiene el nuevo formato de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda. Hay celdas con varias líneas
+
+\begin{center}
+	\begin{longtable}{>{\raggedright\arraybackslash}p{2cm} >{\raggedright\arraybackslash}p{2.5cm} >{\raggedright\arraybackslash}p{5cm}}
+		\toprule[2pt]
+		\textbf{Texto 1} & \textbf{Tarea 1} & \textbf{Problema 1} \\
+		\midrule[1.5pt] \endhead
+		Texto 2 & Tarea 2 & Problema 2.1 \newline Problema 2.2 \\
+		\hline
+		Texto 3 & Tarea 3.1 \newline Tarea 3.2 \newline Tarea 3.3 & Problema 3, el cuál es un problema un poco largo \\
+		\hline
+		Texto 4 & Tarea 4.1 \newline Tarea 4.2 & Problema 4.1 \newline Problema 4.2 \newline Problema 4.3 \\
+		\bottomrule[2pt]
+		\caption[Longtable con nuevo formato con ancho fijo y columnas alineadas a la izquierda y distintas líneas por celda]{Esta longtable tiene el nuevo formato de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda. Hay celdas con varias líneas}
+		\label{table18}
+	\end{longtable}
+\end{center}
+
+\section*{Tabla estándar con ancho fijo y columnas centradas y celdas fusionadas}
+
+La siguiente tabla tiene el formato estándar de líneas. Las columnas tienen ancho fijo. El texto está centrado. Hay celdas fusionadas
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|>{\centering\arraybackslash}p{2cm}|>{\centering\arraybackslash}p{2.5cm}|>{\centering\arraybackslash}p{5cm}|}
+		\hline
+		Texto 1 & Tarea 1 & Problema 1 \\
+		\hline
+		Texto 2 & Tarea 2 & Problema 2 \\ 
+		\hline
+		Texto 3 & \multicolumn{2}{c|}{Tarea y problema 3} \\
+		\hline
+		\multicolumn{3}{|c|}{Texto, tarea y problema 4} \\
+		\hline
+	\end{tabular}
+	\caption[Tabla estándar con ancho fijo y columnas centradas y celdas fusionadas]{Esta tabla tiene el formato estándar de líneas. Las columnas tienen ancho fijo. El texto está centrado. Hay celdas fusionadas}
+	\label{table19}
+\end{table}
+
+\section*{Tabla con nuevo formato con ancho fijo y columnas centradas y celdas fusionadas}
+
+La siguiente tabla tiene el nuevo formato de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda. Hay celdas fusionadas
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{>{\centering\arraybackslash}p{2cm} >{\centering\arraybackslash}p{2.5cm} >{\centering\arraybackslash}p{5cm}}
+		\toprule[2pt]
+		\textbf{Texto 1} & \textbf{Tarea 1} & \textbf{Problema 1} \\
+		\midrule[1.5pt]
+		Texto 2 & Tarea 2 & Problema 2 \\
+		\hline
+		Texto 3 & \multicolumn{2}{c}{Tarea y problema 3} \\
+		\hline
+		\multicolumn{3}{c}{Texto, tarea y problema 4} \\
+		\bottomrule[2pt]
+	\end{tabular}
+	\caption[Tabla con nuevo formato con ancho fijo y columnas centradas y celdas fusionadas]{Esta tabla tiene el nuevo formato de líneas. Las columnas tienen ancho fijo. El texto está alineado a la izquierda. Hay celdas fusionadas}
+	\label{table20}
+\end{table}
