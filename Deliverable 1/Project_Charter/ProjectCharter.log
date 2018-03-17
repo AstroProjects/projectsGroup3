@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.10)  17 MAR 2018 18:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.10)  17 MAR 2018 19:41
 entering extended mode
 **./ProjectCharter.tex
 (ProjectCharter.tex
@@ -1659,6 +1659,57 @@ File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 )) (ProjectCharter.aux
 
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 =
+      ======
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Extra }, or forgotten \endgroup.
+l.61     {1}{390.42174pt}}
+                          
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Label `fig:risks1' multiply defined.
+
+
+LaTeX Warning: Label `fig:risks2' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
 LaTeX Warning: Label `my-label' multiply defined.
 
 
@@ -1684,6 +1735,30 @@ LaTeX Warning: Label `my-label' multiply defined.
 
 
 LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `rules' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `table_definicionesobvias' multiply defined.
+
+
+LaTeX Warning: Label `table_stakeholders' multiply defined.
+
+
+LaTeX Warning: Label `table_roles' multiply defined.
+
+
+LaTeX Warning: Label `stakeholder_register' multiply defined.
+
+
+LaTeX Warning: Label `LastPage' multiply defined.
 
 )
 \openout1 = `ProjectCharter.aux'.
@@ -1964,12 +2039,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--51
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
-
- []
-
-) [1
+[1
 Non-PDF special ignored!
 <special> header=pstricks.pro
 Non-PDF special ignored!
@@ -1986,57 +2056,108 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
 {C:/Users/David/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./doc_confi
-g/images/logo.png> <./doc_config/images/UPC_dpt.png>] [2] (ProjectCharter.toc)
+g/images/logo.png> <./doc_config/images/UPC_dpt.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+)
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 32.
+(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+ [2] [3] (ProjectCharter.toc
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 34.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 34.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 34.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 34.
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 34.
+(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+[1])
 \tf@toc=\write4
 \openout4 = `ProjectCharter.toc'.
-
-
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 41.
-
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 41.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 41.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 41.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 41.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
-[1] (ProjectCharter.lot)
+ [2] (ProjectCharter.lot
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 36.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 36.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 36.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 36.
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 36.
+(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+[3]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 \addvspace {10\p@ }
+                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
 \tf@lot=\write5
 \openout5 = `ProjectCharter.lot'.
-
-
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 46.
-
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 46.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 46.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 46.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 46.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
-[2] (ProjectCharter.lof)
+ [4] (ProjectCharter.lof
+
+LaTeX Warning: Citation `Kerzner2009' on page v undefined on input line 8.
+
+
+LaTeX Warning: Citation `GuideProjectManag' on page v undefined on input line 9
+.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \addvspace {10\p@ }
+                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
 \tf@lof=\write6
 \openout6 = `ProjectCharter.lof'.
 
@@ -2061,7 +2182,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 54.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
-[3] (sections/YELLOW/1.PURPOSE_JUSTIFICATION.tex
+[5] (sections/YELLOW/1.PURPOSE_JUSTIFICATION.tex
 Chapter 1.
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
@@ -2122,13 +2243,12 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 3.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [3])
-(sections/GREEN/3.HIGH-LEVEL_REQUIREMENTS.tex
-Overfull \hbox (47.13203pt too wide) in alignment at lines 3--28
- [] [] [] 
- []
-
-
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.3 
+     [3]) (sections/GREEN/3.HIGH-LEVEL_REQUIREMENTS.tex
 Underfull \vbox (badness 10000) detected at line 28
  []
 
@@ -2137,113 +2257,143 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 28.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
 [4]
-Overfull \hbox (47.13203pt too wide) in alignment at lines 31--60
- [] [] [] 
- []
-
-
 Underfull \vbox (badness 10000) detected at line 60
  []
 
 ) (sections/GREEN/4.ACCEPTANCE_CRITERIA.tex
-Overfull \hbox (135.5222pt too wide) in alignment at lines 5--44
- [] [] [] 
+Underfull \hbox (badness 1062) in paragraph at lines 17--19
+\T1/lmss/m/n/10.95 com-plete and un-der-stand-able. Fur-ther-more, it must be
  []
 
 
-Underfull \vbox (badness 10000) detected at line 44
+Underfull \hbox (badness 2197) in paragraph at lines 17--19
+\T1/lmss/m/n/10.95 well struc-tured, di-vid-ing the in-for-ma-tion into ap-proa
+ch,
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{table.1.1}) h
-as been already used, duplicate ignored
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 56.
+(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+[5]pdfTeX warning (ext4): destination with the same identifier (name{table.1.1}
+) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.44 \end{longtable}
+l.56 \end{longtable}
                     
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 44.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 56.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [5]) (sections/GREEN/5.HIGH-LEVEL_RISKS.tex
+ [6]) (sections/GREEN/5.HIGH-LEVEL_RISKS.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 4.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [6]
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 36.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 19.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
  [7]
-<./images/risks1.jpg, id=234, 883.80188pt x 548.80031pt>
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 53.
+(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+ [8]
+<./images/risks1.jpg, id=290, 883.80188pt x 548.80031pt>
 File: ./images/risks1.jpg Graphic file (type jpg)
 <use ./images/risks1.jpg>
 Package pdftex.def Info: ./images/risks1.jpg  used on input line 68.
 (pdftex.def)             Requested size: 277.41176pt x 172.2617pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 72.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
 
-[8]
-<./images/risks2.jpg, id=240, 931.22906pt x 557.08125pt>
+
+LaTeX Warning: Citation `Kerzner2009' on page 9 undefined on input line 69.
+
+
+LaTeX Warning: Citation `Kerzner2009' on page 9 undefined on input line 69.
+
+<./images/risks2.jpg, id=291, 931.22906pt x 557.08125pt>
 File: ./images/risks2.jpg Graphic file (type jpg)
 <use ./images/risks2.jpg>
 Package pdftex.def Info: ./images/risks2.jpg  used on input line 77.
 (pdftex.def)             Requested size: 426.79135pt x 255.31694pt.
-) (sections/BLUE/6.PROJECT_DELIVERABLES.tex
-Underfull \hbox (badness 1796) in paragraph at lines 7--8
-\T1/lmss/m/n/10.95 man-age-ment strate-gies, in-clud-ing the Project
+
+LaTeX Warning: Citation `GuideProjectManag' on page 9 undefined on input line 7
+8.
+
+
+LaTeX Warning: Citation `GuideProjectManag' on page 9 undefined on input line 7
+8.
+
+)
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 68.
+(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+ [9 <./images/risks1.jpg>] (sections/BLUE/6.PROJECT_DELIVERABLES.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+\T1/lmss/m/n/10.95 in-clud-ing the Project Char-ter,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
-[]\T1/lmss/m/n/10.95 Document de-tail-ing the mar-ket ap-proach,
+[]\T1/lmss/m/n/10.95 Document de-tail-ing the mar-ket
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+\T1/lmss/m/n/10.95 ap-proach, in-clud-ing the se-lected
+ []
+
+
+Underfull \hbox (badness 7595) in paragraph at lines 13--14
+\T1/lmss/m/n/10.95 dis-sem-i-na-tion strate-gies, such as
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
-[]\T1/lmss/m/n/10.95 Document con-tain-ing all the planned
+\T1/lmss/m/n/10.95 web-site de-vel-op-ment and so-cial
  []
 
 
-Underfull \hbox (badness 3229) in paragraph at lines 13--14
-\T1/lmss/m/n/10.95 dis-sem-i-na-tion strate-gies, such as the on-line
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+\T1/lmss/m/n/10.95 me-dia man-age-ment), the of-fline
  []
 
 
-Underfull \hbox (badness 3954) in paragraph at lines 13--14
-\T1/lmss/m/n/10.95 and so-cial me-dia man-age-ment), the of-fline
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+\T1/lmss/m/n/10.95 com-mu-ni-ca-tion (par-tic-i-pa-tion in
  []
 
 
-Underfull \hbox (badness 1270) in paragraph at lines 13--14
-\T1/lmss/m/n/10.95 com-mu-ni-ca-tion (par-tic-i-pa-tion in meet-ings and
+Underfull \hbox (badness 2189) in paragraph at lines 13--14
+\T1/lmss/m/n/10.95 dis-sem-i-na-tion ma-te-ri-als (tech-nol-ogy
  []
 
 
-Underfull \hbox (badness 2970) in paragraph at lines 13--14
-\T1/lmss/m/n/10.95 con-fer-ences) and the dis-sem-i-na-tion ma-te-ri-als
+Underfull \hbox (badness 1546) in paragraph at lines 19--20
+[]\T1/lmss/m/n/10.95 Report de-ter-min-ing the pre-lim-i-nary
  []
 
 
-Underfull \hbox (badness 2990) in paragraph at lines 19--20
-\T1/lmss/m/n/10.95 pa-ram-e-ters of each sen-sor, as well as the
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+\T1/lmss/m/n/10.95 per-for-mance pa-ram-e-ters of each
  []
 
 
-Underfull \hbox (badness 2799) in paragraph at lines 25--26
-\T1/lmss/m/n/10.95 spec-i-fi-ca-tions of each sen-sor de-vel-oped, the
+Underfull \hbox (badness 1701) in paragraph at lines 19--20
+\T1/lmss/m/n/10.95 sen-sor, as well as the tech-nol-ogy
  []
 
 
-Underfull \hbox (badness 3078) in paragraph at lines 25--26
-\T1/lmss/m/n/10.95 soft-ware of the sys-tem and the in-ter-ac-tion
+Underfull \hbox (badness 2005) in paragraph at lines 22--23
+\T1/lmss/m/n/10.95 state of the project, in or-der to
  []
 
 
-Overfull \hbox (52.64577pt too wide) in alignment at lines 3--36
- [] [] [] 
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+[]\T1/lmss/m/n/10.95 Final doc-u-ment de-liv-ered, that
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 31--32
+\T1/lmss/m/n/10.95 in-cludes all the de-vel-op-ment done
  []
 
 
@@ -2260,20 +2410,55 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 36.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [9 <./images/risks1.jpg> <./images/risks2.jpg>])
+ [10 <./images/risks2.jpg>])
 (sections/BLUE/7.PROJECT_MILESTONES.tex
+Underfull \hbox (badness 1158) in paragraph at lines 9--10
+[]\T1/lmss/m/n/10.95 Specification of the ob-jec-tives and
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
-[]\T1/lmss/m/n/10.95 Obtaining a po-ten-tial sup-pli-ers list, and
+[]\T1/lmss/m/n/10.95 Obtaining a po-ten-tial sup-pli-ers
+ []
+
+
+Underfull \hbox (badness 4699) in paragraph at lines 12--13
+\T1/lmss/m/n/10.95 list, and ne-go-ti-at-ing pro-cure-ment
+ []
+
+
+Underfull \hbox (badness 2237) in paragraph at lines 12--13
+\T1/lmss/m/n/10.95 con-di-tions with them, as well as
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 15--16
+\T1/lmss/m/n/10.95 into par-tic-i-pa-tion in meet-ings and
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 18--19
+[]\T1/lmss/m/n/10.95 Definition of re-quire-ments for the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]|\T1/lmss/m/n/10.95 Payload pre-lim-i-nary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[]\T1/lmss/m/n/10.95 First phase of the de-sign, an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+\T1/lmss/m/n/10.95 op-ti-miza-tion of each sen-sor is
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 23--23
-[]|\T1/lmss/m/n/10.95 Modular sys-tem pre-lim-i-nary
- []
-
-
-Underfull \hbox (badness 1082) in paragraph at lines 24--25
-[]\T1/lmss/m/n/10.95 Development of the ini-tial pa-ram-e-ters of the
+[]|\T1/lmss/m/n/10.95 Modular sys-tem
  []
 
 
@@ -2282,50 +2467,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--26
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 33--34
-[]\T1/lmss/m/n/10.95 Final de-sign of the en-tire pay-load (sen-sors),
+Underfull \hbox (badness 3068) in paragraph at lines 27--28
+[]\T1/lmss/m/n/10.95 Preliminary im-ple-men-ta-tion of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+\T1/lmss/m/n/10.95 func-tion-al-i-ties of the in-ter-ac-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+\T1/lmss/m/n/10.95 plat-form, such as the ma-chine
+ []
+
+
+Underfull \hbox (badness 4120) in paragraph at lines 30--31
+[]\T1/lmss/m/n/10.95 Mid-term re-port to eval-u-ate and
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 33--34
+[]\T1/lmss/m/n/10.95 Final de-sign of the en-tire pay-load
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 33--34
-\T1/lmss/m/n/10.95 in-clud-ing the spec-i-fi-ca-tions and es-ti-mated
+\T1/lmss/m/n/10.95 and es-ti-mated per-for-mance in
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 36--37
-[]\T1/lmss/m/n/10.95 Final de-sign of the mod-u-lar sys-tem and the
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]|\T1/lmss/m/n/10.95 Modular sys-tem fi-nal
  []
 
 
-Underfull \hbox (badness 3735) in paragraph at lines 36--37
-\T1/lmss/m/n/10.95 soft-ware that will pro-cess and reg-is-ter the
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+[]\T1/lmss/m/n/10.95 Manufacturing of the pro-to-type
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--38
-[]|\T1/lmss/m/n/10.95 Interaction plat-form fi-nal
- []
-
-
-Underfull \hbox (badness 3646) in paragraph at lines 49--50
-\T1/lmss/m/n/10.95 op-er-a-tional con-di-tions in or-der to test the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
-[]\T1/lmss/m/n/10.95 Final re-port that in-cludes the com-plete
- []
-
-
-Overfull \hbox (77.19699pt too wide) in alignment at lines 2--58
- [] [] [] 
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+\T1/lmss/m/n/10.95 (pay-load, mod-u-lar sys-tem and
  []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 58.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
-[10]
+[11]
 Underfull \vbox (badness 10000) detected at line 58
  []
 
@@ -2339,44 +2529,1122 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 58.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [11]) (sections/GREEN/8.PROJECT_OBJECTIVES.texpdfTeX warning (ext4): destinati
-on with the same identifier (name{table.1.1}) has been already used, duplicate 
-ignored
+ [12]) (sections/GREEN/8.PROJECT_OBJECTIVES.tex
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 28.
+(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+ [13]pdfTeX warning (ext4): destination with the same identifier (name{table.1.
+1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.22 	\end{longtable}
+l.28 	\end{longtable}
                      
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 22.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 29.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [12]) (sections/RED/9.ESTIMATED_BUDGET.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
+ [14]) (sections/RED/9.ESTIMATED_BUDGET.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 27--27
+[]|\T1/lmss/bx/n/10.95 (A) Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\T1/lmss/bx/n/10.95 Per-son-nel
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 27--27
+[]|\T1/lmss/bx/n/10.95 (B) Other
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\T1/lmss/bx/n/10.95 Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]|\T1/lmss/bx/n/10.95 (C) Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\T1/lmss/bx/n/10.95 costs of
+ []
+
+
+Overfull \hbox (6.43143pt too wide) in paragraph at lines 27--27
+\T1/lmss/bx/n/10.95 sub-contracting| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]|\T1/lmss/bx/n/10.95 (H) To-tal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\T1/lmss/bx/n/10.95 es-ti-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\T1/lmss/bx/n/10.95 el-i-gi-ble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]|\T1/lmss/bx/n/10.95 (I)
+ []
+
+
+Overfull \hbox (27.2666pt too wide) in paragraph at lines 27--27
+\T1/lmss/bx/n/10.95 Re-im-bourse-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]|\T1/lmss/bx/n/10.95 (J) Max.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\T1/lmss/bx/n/10.95 EU
+ []
+
+
+Overfull \hbox (5.93488pt too wide) in paragraph at lines 27--27
+\T1/lmss/bx/n/10.95 Con-tri-bu-tion| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]|\T1/lmss/bx/n/10.95 (K)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\T1/lmss/bx/n/10.95 Re-quested
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\T1/lmss/bx/n/10.95 EU
+ []
+
+
+Overfull \hbox (5.93488pt too wide) in paragraph at lines 27--27
+\T1/lmss/bx/n/10.95 Con-tri-bu-tion| 
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 27--27
+[]|\T1/lmss/bx/n/10.95 BHO Le-gal Recht-san-wälte
+ []
+
+
+Overfull \hbox (7.24356pt too wide) in paragraph at lines 27--28
+ [][] 
+ []
+
+<./images/budget/budgetPie.png, id=321, 691.83469pt x 403.5075pt>
+File: ./images/budget/budgetPie.png Graphic file (type png)
+<use ./images/budget/budgetPie.png>
+Package pdftex.def Info: ./images/budget/budgetPie.png  used on input line 33.
+(pdftex.def)             Requested size: 345.91649pt x 201.75325pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 28.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 39.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
-[13]
+[15 <./images/budget/budgetPie.png>]
+Underfull \hbox (badness 1158) in paragraph at lines 55--55
+[]|\T1/lmss/bx/n/10.95 (A) Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\T1/lmss/bx/n/10.95 Per-son-nel
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 55--55
+[]|\T1/lmss/bx/n/10.95 (B) Other
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\T1/lmss/bx/n/10.95 Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]|\T1/lmss/bx/n/10.95 (C) Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\T1/lmss/bx/n/10.95 costs of
+ []
+
+
+Overfull \hbox (6.43143pt too wide) in paragraph at lines 55--55
+\T1/lmss/bx/n/10.95 sub-contracting| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]|\T1/lmss/bx/n/10.95 (H) To-tal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\T1/lmss/bx/n/10.95 es-ti-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\T1/lmss/bx/n/10.95 el-i-gi-ble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]|\T1/lmss/bx/n/10.95 (I)
+ []
+
+
+Overfull \hbox (27.2666pt too wide) in paragraph at lines 55--55
+\T1/lmss/bx/n/10.95 Re-im-bourse-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]|\T1/lmss/bx/n/10.95 (J) Max.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\T1/lmss/bx/n/10.95 EU
+ []
+
+
+Overfull \hbox (5.93488pt too wide) in paragraph at lines 55--55
+\T1/lmss/bx/n/10.95 Con-tri-bu-tion| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]|\T1/lmss/bx/n/10.95 (K)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\T1/lmss/bx/n/10.95 Re-quested
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\T1/lmss/bx/n/10.95 EU
+ []
+
+
+Overfull \hbox (5.93488pt too wide) in paragraph at lines 55--55
+\T1/lmss/bx/n/10.95 Con-tri-bu-tion| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]|\T1/lmss/bx/n/10.95 WP4- Part-ner-ship and
+ []
+
+
+Overfull \hbox (9.43358pt too wide) in paragraph at lines 55--56
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 76--76
+[]|\T1/lmss/bx/n/10.95 (A) Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\T1/lmss/bx/n/10.95 Per-son-nel
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 76--76
+[]|\T1/lmss/bx/n/10.95 (B) Other
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\T1/lmss/bx/n/10.95 Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]|\T1/lmss/bx/n/10.95 (C) Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\T1/lmss/bx/n/10.95 costs of
+ []
+
+
+Overfull \hbox (6.43143pt too wide) in paragraph at lines 76--76
+\T1/lmss/bx/n/10.95 sub-contracting| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]|\T1/lmss/bx/n/10.95 (H) To-tal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\T1/lmss/bx/n/10.95 es-ti-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\T1/lmss/bx/n/10.95 el-i-gi-ble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]|\T1/lmss/bx/n/10.95 (I)
+ []
+
+
+Overfull \hbox (27.2666pt too wide) in paragraph at lines 76--76
+\T1/lmss/bx/n/10.95 Re-im-bourse-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]|\T1/lmss/bx/n/10.95 (J) Max.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\T1/lmss/bx/n/10.95 EU
+ []
+
+
+Overfull \hbox (5.93488pt too wide) in paragraph at lines 76--76
+\T1/lmss/bx/n/10.95 Con-tri-bu-tion| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]|\T1/lmss/bx/n/10.95 (K)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\T1/lmss/bx/n/10.95 Re-quested
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\T1/lmss/bx/n/10.95 EU
+ []
+
+
+Overfull \hbox (5.93488pt too wide) in paragraph at lines 76--76
+\T1/lmss/bx/n/10.95 Con-tri-bu-tion| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]|\T1/lmss/bx/n/10.95 WP4- Part-ner-ship and
+ []
+
+
+Overfull \hbox (9.43358pt too wide) in paragraph at lines 76--77
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 96--96
+[]|\T1/lmss/bx/n/10.95 (A) Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\T1/lmss/bx/n/10.95 Per-son-nel
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 96--96
+[]|\T1/lmss/bx/n/10.95 (B) Other
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\T1/lmss/bx/n/10.95 Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]|\T1/lmss/bx/n/10.95 (C) Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\T1/lmss/bx/n/10.95 costs of
+ []
+
+
+Overfull \hbox (6.43143pt too wide) in paragraph at lines 96--96
+\T1/lmss/bx/n/10.95 sub-contracting| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]|\T1/lmss/bx/n/10.95 (H) To-tal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\T1/lmss/bx/n/10.95 es-ti-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\T1/lmss/bx/n/10.95 el-i-gi-ble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]|\T1/lmss/bx/n/10.95 (I)
+ []
+
+
+Overfull \hbox (27.2666pt too wide) in paragraph at lines 96--96
+\T1/lmss/bx/n/10.95 Re-im-bourse-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]|\T1/lmss/bx/n/10.95 (J) Max.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\T1/lmss/bx/n/10.95 EU
+ []
+
+
+Overfull \hbox (5.93488pt too wide) in paragraph at lines 96--96
+\T1/lmss/bx/n/10.95 Con-tri-bu-tion| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]|\T1/lmss/bx/n/10.95 (K)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\T1/lmss/bx/n/10.95 Re-quested
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\T1/lmss/bx/n/10.95 EU
+ []
+
+
+Overfull \hbox (5.93488pt too wide) in paragraph at lines 96--96
+\T1/lmss/bx/n/10.95 Con-tri-bu-tion| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]|\T1/lmss/bx/n/10.95 WP4- Part-ner-ship and
+ []
+
+
+Overfull \hbox (9.43358pt too wide) in paragraph at lines 96--97
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 116--116
+[]|\T1/lmss/bx/n/10.95 (A) Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\T1/lmss/bx/n/10.95 Per-son-nel
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 116--116
+[]|\T1/lmss/bx/n/10.95 (B) Other
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\T1/lmss/bx/n/10.95 Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]|\T1/lmss/bx/n/10.95 (C) Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\T1/lmss/bx/n/10.95 costs of
+ []
+
+
+Overfull \hbox (6.43143pt too wide) in paragraph at lines 116--116
+\T1/lmss/bx/n/10.95 sub-contracting| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]|\T1/lmss/bx/n/10.95 (H) To-tal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\T1/lmss/bx/n/10.95 es-ti-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\T1/lmss/bx/n/10.95 el-i-gi-ble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]|\T1/lmss/bx/n/10.95 (I)
+ []
+
+
+Overfull \hbox (27.2666pt too wide) in paragraph at lines 116--116
+\T1/lmss/bx/n/10.95 Re-im-bourse-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]|\T1/lmss/bx/n/10.95 (J) Max.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\T1/lmss/bx/n/10.95 EU
+ []
+
+
+Overfull \hbox (5.93488pt too wide) in paragraph at lines 116--116
+\T1/lmss/bx/n/10.95 Con-tri-bu-tion| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]|\T1/lmss/bx/n/10.95 (K)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\T1/lmss/bx/n/10.95 Re-quested
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\T1/lmss/bx/n/10.95 EU
+ []
+
+
+Overfull \hbox (5.93488pt too wide) in paragraph at lines 116--116
+\T1/lmss/bx/n/10.95 Con-tri-bu-tion| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]|\T1/lmss/bx/n/10.95 WP4- Part-ner-ship and
+ []
+
+
+Overfull \hbox (9.43358pt too wide) in paragraph at lines 116--117
+ [][] 
+ []
+
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 82.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 118.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [14]
+[16]
+Underfull \hbox (badness 1158) in paragraph at lines 136--136
+[]|\T1/lmss/bx/n/10.95 (A) Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+\T1/lmss/bx/n/10.95 Per-son-nel
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 136--136
+[]|\T1/lmss/bx/n/10.95 (B) Other
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+\T1/lmss/bx/n/10.95 Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]|\T1/lmss/bx/n/10.95 (C) Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+\T1/lmss/bx/n/10.95 costs of
+ []
+
+
+Overfull \hbox (6.43143pt too wide) in paragraph at lines 136--136
+\T1/lmss/bx/n/10.95 sub-contracting| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]|\T1/lmss/bx/n/10.95 (H) To-tal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+\T1/lmss/bx/n/10.95 es-ti-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+\T1/lmss/bx/n/10.95 el-i-gi-ble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]|\T1/lmss/bx/n/10.95 (I)
+ []
+
+
+Overfull \hbox (27.2666pt too wide) in paragraph at lines 136--136
+\T1/lmss/bx/n/10.95 Re-im-bourse-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]|\T1/lmss/bx/n/10.95 (J) Max.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+\T1/lmss/bx/n/10.95 EU
+ []
+
+
+Overfull \hbox (5.93488pt too wide) in paragraph at lines 136--136
+\T1/lmss/bx/n/10.95 Con-tri-bu-tion| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]|\T1/lmss/bx/n/10.95 (K)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+\T1/lmss/bx/n/10.95 Re-quested
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+\T1/lmss/bx/n/10.95 EU
+ []
+
+
+Overfull \hbox (5.93488pt too wide) in paragraph at lines 136--136
+\T1/lmss/bx/n/10.95 Con-tri-bu-tion| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]|\T1/lmss/bx/n/10.95 WP4- Part-ner-ship and
+ []
+
+
+Overfull \hbox (9.43358pt too wide) in paragraph at lines 136--137
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 155--155
+[]|\T1/lmss/bx/n/10.95 (A) Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+\T1/lmss/bx/n/10.95 Per-son-nel
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 155--155
+[]|\T1/lmss/bx/n/10.95 (B) Other
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+\T1/lmss/bx/n/10.95 Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+[]|\T1/lmss/bx/n/10.95 (C) Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+\T1/lmss/bx/n/10.95 costs of
+ []
+
+
+Overfull \hbox (6.43143pt too wide) in paragraph at lines 155--155
+\T1/lmss/bx/n/10.95 sub-contracting| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+[]|\T1/lmss/bx/n/10.95 (H) To-tal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+\T1/lmss/bx/n/10.95 es-ti-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+\T1/lmss/bx/n/10.95 el-i-gi-ble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+[]|\T1/lmss/bx/n/10.95 (I)
+ []
+
+
+Overfull \hbox (27.2666pt too wide) in paragraph at lines 155--155
+\T1/lmss/bx/n/10.95 Re-im-bourse-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+[]|\T1/lmss/bx/n/10.95 (J) Max.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+\T1/lmss/bx/n/10.95 EU
+ []
+
+
+Overfull \hbox (5.93488pt too wide) in paragraph at lines 155--155
+\T1/lmss/bx/n/10.95 Con-tri-bu-tion| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+[]|\T1/lmss/bx/n/10.95 (K)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+\T1/lmss/bx/n/10.95 Re-quested
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+\T1/lmss/bx/n/10.95 EU
+ []
+
+
+Overfull \hbox (5.93488pt too wide) in paragraph at lines 155--155
+\T1/lmss/bx/n/10.95 Con-tri-bu-tion| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+[]|\T1/lmss/bx/n/10.95 WP4- Part-ner-ship and
+ []
+
+
+Overfull \hbox (9.43358pt too wide) in paragraph at lines 155--156
+ [][] 
+ []
+
+
+Underfull \hbox (badness 5847) in paragraph at lines 175--175
+[]|\T1/lmss/bx/n/10.95 BHO Le-gal Recht-san-wlte
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 175--175
+[]|\T1/lmss/bx/n/10.95 (A) Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/lmss/bx/n/10.95 Per-son-nel
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 175--175
+[]|\T1/lmss/bx/n/10.95 (B) Other
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/lmss/bx/n/10.95 Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+[]|\T1/lmss/bx/n/10.95 (C) Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/lmss/bx/n/10.95 costs of
+ []
+
+
+Overfull \hbox (6.43143pt too wide) in paragraph at lines 175--175
+\T1/lmss/bx/n/10.95 sub-contracting| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+[]|\T1/lmss/bx/n/10.95 (H) To-tal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/lmss/bx/n/10.95 es-ti-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/lmss/bx/n/10.95 el-i-gi-ble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+[]|\T1/lmss/bx/n/10.95 (I)
+ []
+
+
+Overfull \hbox (27.2666pt too wide) in paragraph at lines 175--175
+\T1/lmss/bx/n/10.95 Re-im-bourse-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+[]|\T1/lmss/bx/n/10.95 (J) Max.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/lmss/bx/n/10.95 EU
+ []
+
+
+Overfull \hbox (5.93488pt too wide) in paragraph at lines 175--175
+\T1/lmss/bx/n/10.95 Con-tri-bu-tion| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+[]|\T1/lmss/bx/n/10.95 (K)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/lmss/bx/n/10.95 Re-quested
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/lmss/bx/n/10.95 EU
+ []
+
+
+Overfull \hbox (5.93488pt too wide) in paragraph at lines 175--175
+\T1/lmss/bx/n/10.95 Con-tri-bu-tion| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+[]|\T1/lmss/bx/n/10.95 WP4- Part-ner-ship and
+ []
+
+
+Overfull \hbox (9.43358pt too wide) in paragraph at lines 175--176
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 195--195
+[]|\T1/lmss/bx/n/10.95 (A) Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+\T1/lmss/bx/n/10.95 Per-son-nel
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 195--195
+[]|\T1/lmss/bx/n/10.95 (B) Other
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+\T1/lmss/bx/n/10.95 Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+[]|\T1/lmss/bx/n/10.95 (C) Di-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+\T1/lmss/bx/n/10.95 costs of
+ []
+
+
+Overfull \hbox (6.43143pt too wide) in paragraph at lines 195--195
+\T1/lmss/bx/n/10.95 sub-contracting| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+[]|\T1/lmss/bx/n/10.95 (H) To-tal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+\T1/lmss/bx/n/10.95 es-ti-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+\T1/lmss/bx/n/10.95 el-i-gi-ble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+[]|\T1/lmss/bx/n/10.95 (I)
+ []
+
+
+Overfull \hbox (27.2666pt too wide) in paragraph at lines 195--195
+\T1/lmss/bx/n/10.95 Re-im-bourse-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+[]|\T1/lmss/bx/n/10.95 (J) Max.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+\T1/lmss/bx/n/10.95 EU
+ []
+
+
+Overfull \hbox (5.93488pt too wide) in paragraph at lines 195--195
+\T1/lmss/bx/n/10.95 Con-tri-bu-tion| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+[]|\T1/lmss/bx/n/10.95 (K)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+\T1/lmss/bx/n/10.95 Re-quested
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+\T1/lmss/bx/n/10.95 EU
+ []
+
+
+Overfull \hbox (5.93488pt too wide) in paragraph at lines 195--195
+\T1/lmss/bx/n/10.95 Con-tri-bu-tion| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+[]|\T1/lmss/bx/n/10.95 WP4- Part-ner-ship and
+ []
+
+
+Overfull \hbox (9.43358pt too wide) in paragraph at lines 195--196
+ [][] 
+ []
+
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 154.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 197.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [15]) (sections/MAGENTA/10.PROJECT_ORGANIZATION.tex
+[17]
+<./images/budget/rulesBudget2020.png, id=336, 969.6225pt x 209.28188pt>
+File: ./images/budget/rulesBudget2020.png Graphic file (type png)
+<use ./images/budget/rulesBudget2020.png>
+Package pdftex.def Info: ./images/budget/rulesBudget2020.png  used on input lin
+e 210.
+(pdftex.def)             Requested size: 436.3261pt x 94.17596pt.
+
+Overfull \hbox (9.53474pt too wide) in paragraph at lines 210--211
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+
+ []
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 226.
+(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+[18 <./images/budget/rulesBudget2020.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+
+ []
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 242.
+(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+[19]
+Underfull \hbox (badness 1436) in paragraph at lines 243--244
+\T1/lmss/m/n/10.95 tech-no-log-i-cally very de-vel-oped com-pared to other stak
+e-hold-ers in terms of re-search,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+
+ []
+
+) (sections/MAGENTA/10.PROJECT_ORGANIZATION.tex
 (sections/MAGENTA/10.1.CUSTOMERS.tex) (sections/MAGENTA/10.2.STAKEHOLDERS.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
 
-[16]
+[20]
 Underfull \vbox (badness 10000) detected at line 23
  []
 
@@ -2390,7 +3658,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 28.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [17]
+ [21]
 Overfull \hbox (11.78769pt too wide) in alignment at lines 30--52
  [] [] 
  []
@@ -2408,7 +3676,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 76.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
-[18]) (sections/MAGENTA/10.3.ROLES_RESPONSIBILITIES.tex
+[22]) (sections/MAGENTA/10.3.ROLES_RESPONSIBILITIES.tex
 Overfull \hbox (19.54721pt too wide) in alignment at lines 4--6
  [] [] [] [] 
  []
@@ -2422,15 +3690,15 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 26.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
-[19])) (sections/MAGENTA/STAKEHOLDER_IDENTIFICATION.tex
+[23])) (sections/MAGENTA/STAKEHOLDER_IDENTIFICATION.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [20]
+ [24]
 Chapter 2.
 (sections/MAGENTA/2.1.STAKEHOLDER_ANALISIS_MATRIX.tex
-<././images/identitymatrix.png, id=297, 1009.8528pt x 529.0164pt>
+<././images/identitymatrix.png, id=369, 1009.8528pt x 529.0164pt>
 File: ././images/identitymatrix.png Graphic file (type png)
 <use ././images/identitymatrix.png>
 Package pdftex.def Info: ././images/identitymatrix.png  used on input line 4.
@@ -2673,7 +3941,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 50.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
-[21
+[25
 
  <././images/identitymatrix.png>]
 Overfull \hbox (0.90804pt too wide) in paragraph at lines 52--52
@@ -2829,32 +4097,32 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 92.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
-[22]
+[26]
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 92.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [23]
+ [27]
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 92.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [24]
+ [28]
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 92.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [25]
+ [29]
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 92.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [26])) (ProjectCharter.bbl
+ [30])) (ProjectCharter.bbl
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [27]
+ [31]
 Chapter 3.
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
@@ -2881,7 +4149,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 101.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
-[28
+[32
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 101.
@@ -2896,34 +4164,41 @@ Package rerunfilecheck Info: File `ProjectCharter.out' has not changed.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 101.
  ) 
 Here is how much of TeX's memory you used:
- 30093 strings out of 493303
- 568111 string characters out of 3129784
- 688398 words of memory out of 3000000
- 33007 multiletter control sequences out of 15000+200000
- 586879 words of font info for 63 fonts, out of 3000000 for 9000
+ 30117 strings out of 493303
+ 568596 string characters out of 3129784
+ 688882 words of memory out of 3000000
+ 33019 multiletter control sequences out of 15000+200000
+ 589647 words of font info for 64 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,16n,87p,10494b,910s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.en
-c}{C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.en
-c}{C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathi
-t.enc}<C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/eurosym/feymr10.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/lm/lmmi10.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/lm/lmr10.pfb><C:/Users/David/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Users/David/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Users/David/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/lm/lmss9.pfb><C:/Users/David/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/David/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb>
-Output written on ProjectCharter.pdf (33 pages, 636385 bytes).
+pdfTeX warning (dest): name{table.caption.9} has been referenced but does not
+ exist, replaced by a fixed one
+
+{C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}
+{C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}
+{C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.
+enc} <C:\Users\David\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
+0\ecrm1095.pk><C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb><C:/Users/David/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/eurosym/feymr10.pfb><C:/Users/David/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Users/David/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Users/David/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Users/David/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Users/David/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss9.pfb><C:/Users/David/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/David/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb>
+Output written on ProjectCharter.pdf (40 pages, 903307 bytes).
 PDF statistics:
- 385 PDF objects out of 1000 (max. 8388607)
- 84 named destinations out of 1000 (max. 500000)
- 226 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 490 PDF objects out of 1000 (max. 8388607)
+ 93 named destinations out of 1000 (max. 500000)
+ 236 words of extra memory for PDF output out of 10000 (max. 10000000)
 
