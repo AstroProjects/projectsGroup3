@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.17)  18 MAR 2018 00:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.17)  18 MAR 2018 00:21
 entering extended mode
 **./ProjectCharter.tex
 (ProjectCharter.tex
@@ -2104,14 +2104,14 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 65.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
 
-[9] <./images/risks1.jpg, id=249, 883.80188pt x 548.80031pt>
+[9] <./images/risks1.jpg, id=247, 883.80188pt x 548.80031pt>
 File: ./images/risks1.jpg Graphic file (type jpg)
 
 <use ./images/risks1.jpg>
 Package pdftex.def Info: ./images/risks1.jpg used on input line 68.
 (pdftex.def)             Requested size: 277.41176pt x 172.2617pt.
 
-<./images/risks2.jpg, id=252, 931.22906pt x 557.08125pt>
+<./images/risks2.jpg, id=250, 931.22906pt x 557.08125pt>
 File: ./images/risks2.jpg Graphic file (type jpg)
 
 <use ./images/risks2.jpg>
@@ -2447,7 +2447,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 29.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
  [15]
-<./images/budget/budgetPie.png, id=285, 691.83469pt x 403.5075pt>
+<./images/budget/budgetPie.png, id=283, 691.83469pt x 403.5075pt>
 File: ./images/budget/budgetPie.png Graphic file (type png)
 
 <use ./images/budget/budgetPie.png>
@@ -3311,7 +3311,7 @@ Overfull \hbox (9.43358pt too wide) in paragraph at lines 195--196
  [][] 
  []
 
-<./images/budget/rulesBudget2020.png, id=298, 969.6225pt x 209.28188pt>
+<./images/budget/rulesBudget2020.png, id=296, 969.6225pt x 209.28188pt>
 File: ./images/budget/rulesBudget2020.png Graphic file (type png)
 
 <use ./images/budget/rulesBudget2020.png>
@@ -3389,7 +3389,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
  [24]
 Chapter 2.
 (sections/MAGENTA/2.1.STAKEHOLDER_ANALISIS_MATRIX.tex
-<././images/identitymatrix.png, id=332, 1009.8528pt x 529.0164pt>
+<././images/identitymatrix.png, id=330, 1009.8528pt x 529.0164pt>
 File: ././images/identitymatrix.png Graphic file (type png)
 
 <use ././images/identitymatrix.png>
@@ -3672,26 +3672,26 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 101.
  ) 
 Here is how much of TeX's memory you used:
- 29806 strings out of 493333
- 550941 string characters out of 3139194
- 683765 words of memory out of 3000000
+ 29804 strings out of 493333
+ 550919 string characters out of 3139194
+ 684765 words of memory out of 3000000
  32673 multiletter control sequences out of 15000+200000
  71358 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,16n,87p,10494b,894s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{figure.caption.19} has been referenced but does n
+pdfTeX warning (dest): name{figure.caption.17} has been referenced but does n
 ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.9} has been referenced but does not 
-exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{figure.caption.7} has been referenced but does not 
 exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{table.caption.17} has been referenced but does not 
+pdfTeX warning (dest): name{figure.caption.5} has been referenced but does not 
 exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{table.caption.8} has been referenced but does not e
+pdfTeX warning (dest): name{table.caption.15} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.6} has been referenced but does not e
 xist, replaced by a fixed one
 
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiK
@@ -3704,9 +3704,9 @@ s/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts
 ss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss9.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/lm/lmsso10.pfb>
-Output written on ProjectCharter.pdf (36 pages, 888556 bytes).
+Output written on ProjectCharter.pdf (36 pages, 888325 bytes).
 PDF statistics:
- 418 PDF objects out of 1000 (max. 8388607)
- 94 named destinations out of 1000 (max. 500000)
+ 416 PDF objects out of 1000 (max. 8388607)
+ 92 named destinations out of 1000 (max. 500000)
  236 words of extra memory for PDF output out of 10000 (max. 10000000)
 
