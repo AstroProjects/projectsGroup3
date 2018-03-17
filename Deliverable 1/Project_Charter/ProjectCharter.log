@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.10)  18 MAR 2018 00:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.10)  18 MAR 2018 00:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1947,11 +1947,14 @@ less on input line 41.
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 41.
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 41.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [1] (./ProjectCharter.lot)
+<./doc_config/images/logo3.png, id=148, 827.09pt x 607.26875pt>
+File: ./doc_config/images/logo3.png Graphic file (type png)
+
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 41.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
+ [1 <./doc_config/images/logo3.png>]
+(./ProjectCharter.lot)
 \tf@lot=\write5
 \openout5 = `ProjectCharter.lot'.
 
@@ -1972,10 +1975,10 @@ less on input line 46.
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 46.
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 46.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 46.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [2] (./ProjectCharter.lof)
 \tf@lof=\write6
 \openout6 = `ProjectCharter.lof'.
@@ -1997,10 +2000,10 @@ less on input line 54.
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 54.
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 54.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 54.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [3]
 (./sections/YELLOW/1.PURPOSE_JUSTIFICATION.tex
 Chapter 1.
@@ -2020,10 +2023,10 @@ less on input line 18.
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 18.
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 18.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 18.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -2033,11 +2036,11 @@ l.18
 
 ] (./sections/YELLOW/1.1.VISION.tex)
 (./sections/YELLOW/1.2.OBJECTIVES.tex) (./sections/YELLOW/1.3.SCOPE.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
+File: ./doc_config/images/logo3.png Graphic file (type png)
 
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 8.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 8.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -2060,18 +2063,18 @@ the min-i-mum per-for-mance
  []
 
 )) (./sections/YELLOW/2.PROJECT_DESCRIPTION.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
+File: ./doc_config/images/logo3.png Graphic file (type png)
 
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 3.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 3.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [3])
 (./sections/GREEN/3.HIGH-LEVEL_REQUIREMENTS.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
+File: ./doc_config/images/logo3.png Graphic file (type png)
 
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 31.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 31.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [4]
 Underfull \vbox (badness 10000) detected at line 65
  []
@@ -2082,10 +2085,10 @@ Underfull \hbox (badness 1478) in paragraph at lines 21--26
 d out
  []
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 65.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 65.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [5]
 Underfull \vbox (badness 10000) detected at line 65
  []
@@ -2096,37 +2099,37 @@ as been already used, duplicate ignored
                    \relax 
 l.65 \end{longtable}
                     
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 65.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+ <use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 65.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [6]
-File: ./doc_config/images/logo.png Graphic file (type png)
+File: ./doc_config/images/logo3.png Graphic file (type png)
 
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 65.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 65.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [7])
 (./sections/GREEN/5.HIGH-LEVEL_RISKS.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 34.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+ <use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 34.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
 
 [8]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 65.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+ <use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 65.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [9]
-<./images/risks1.jpg, id=253, 883.80188pt x 548.80031pt>
+<./images/risks1.jpg, id=255, 883.80188pt x 548.80031pt>
 File: ./images/risks1.jpg Graphic file (type jpg)
 
 <use ./images/risks1.jpg>
 Package pdftex.def Info: ./images/risks1.jpg used on input line 68.
 (pdftex.def)             Requested size: 277.41176pt x 172.2617pt.
 
-<./images/risks2.jpg, id=256, 931.22906pt x 557.08125pt>
+<./images/risks2.jpg, id=258, 931.22906pt x 557.08125pt>
 File: ./images/risks2.jpg Graphic file (type jpg)
 
 <use ./images/risks2.jpg>
@@ -2202,10 +2205,10 @@ Underfull \hbox (badness 1715) in paragraph at lines 32--33
 \T1/lmss/m/n/10.95 in-cludes all the de-vel-op-ment done
  []
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 37.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 37.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [10 <./images/risks1.jpg> <./images/risks2.jpg>]pdfTeX warning (ext4): destina
 tion with the same identifier (name{table.1.1}) has been already used, duplicat
 e ignored
@@ -2213,10 +2216,10 @@ e ignored
                    \relax 
 l.37 \end{longtable}
                     
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 37.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+ <use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 37.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [11])
 (./sections/BLUE/7.PROJECT_MILESTONES.tex
 Underfull \hbox (badness 1158) in paragraph at lines 10--11
@@ -2324,16 +2327,16 @@ as been already used, duplicate ignored
                    \relax 
 l.59 \end{longtable}
                     
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 59.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+ <use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 59.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [12]
-File: ./doc_config/images/logo.png Graphic file (type png)
+File: ./doc_config/images/logo3.png Graphic file (type png)
 
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 59.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 59.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [13])
 (./sections/GREEN/8.PROJECT_OBJECTIVES.texpdfTeX warning (ext4): destination wi
 th the same identifier (name{table.1.1}) has been already used, duplicate ignor
@@ -2342,10 +2345,10 @@ ed
                    \relax 
 l.38 	\end{longtable}
                      
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 38.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+ <use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 38.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [14])
 (./sections/RED/9.ESTIMATED_BUDGET.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
@@ -2457,12 +2460,12 @@ Overfull \hbox (7.24356pt too wide) in paragraph at lines 27--28
  [][] 
  []
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 29.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 29.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [15]
-<./images/budget/budgetPie.png, id=288, 691.83469pt x 403.5075pt>
+<./images/budget/budgetPie.png, id=290, 691.83469pt x 403.5075pt>
 File: ./images/budget/budgetPie.png Graphic file (type png)
 
 <use ./images/budget/budgetPie.png>
@@ -2578,10 +2581,10 @@ Overfull \hbox (9.43358pt too wide) in paragraph at lines 55--56
  [][] 
  []
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 57.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 57.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [16 <./images/budget/budgetPie.png>]
 Underfull \hbox (badness 1158) in paragraph at lines 76--76
 []|\T1/lmss/bx/n/10.95 (A) Di-rect
@@ -3002,10 +3005,10 @@ Overfull \hbox (9.43358pt too wide) in paragraph at lines 136--137
  [][] 
  []
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 138.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 138.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [17]
 Underfull \hbox (badness 1158) in paragraph at lines 155--155
 []|\T1/lmss/bx/n/10.95 (A) Di-rect
@@ -3326,7 +3329,7 @@ Overfull \hbox (9.43358pt too wide) in paragraph at lines 195--196
  [][] 
  []
 
-<./images/budget/rulesBudget2020.png, id=299, 969.6225pt x 209.28188pt>
+<./images/budget/rulesBudget2020.png, id=301, 969.6225pt x 209.28188pt>
 File: ./images/budget/rulesBudget2020.png Graphic file (type png)
 
 <use ./images/budget/rulesBudget2020.png>
@@ -3338,15 +3341,15 @@ Overfull \hbox (9.53474pt too wide) in paragraph at lines 203--204
  [][] 
  []
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 206.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 206.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [18]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 226.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+ <use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 226.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
 
 [19 <./images/budget/rulesBudget2020.png>]
 Underfull \hbox (badness 1436) in paragraph at lines 236--237
@@ -3356,10 +3359,10 @@ e-hold-ers in terms of re-search,
 
 ) (./sections/MAGENTA/10.PROJECT_ORGANIZATION.tex
 (./sections/MAGENTA/10.1.CUSTOMERS.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 30.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+ <use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 30.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
 
 [20]
 Underfull \vbox (badness 10000) detected at line 30
@@ -3377,33 +3380,33 @@ used, duplicate ignored
                    \relax 
 l.31 \end{longtable}
                     
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 66.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+ <use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 66.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [21])
 (./sections/MAGENTA/10.3.ROLES_RESPONSIBILITIES.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
+File: ./doc_config/images/logo3.png Graphic file (type png)
 
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 53.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 53.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [22]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 53.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+ <use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 53.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
 
 [23])) (./sections/MAGENTA/STAKEHOLDER_IDENTIFICATION.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
+File: ./doc_config/images/logo3.png Graphic file (type png)
 
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 1.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [24]
 Chapter 2.
 (./sections/MAGENTA/2.1.STAKEHOLDER_ANALISIS_MATRIX.tex
-<././images/identitymatrix.png, id=332, 1009.8528pt x 529.0164pt>
+<././images/identitymatrix.png, id=334, 1009.8528pt x 529.0164pt>
 File: ././images/identitymatrix.png Graphic file (type png)
 
 <use ././images/identitymatrix.png>
@@ -3527,10 +3530,10 @@ less on input line 51.
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 51.
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 51.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 51.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [25
 
  <././images/identitymatrix.png>]
@@ -3613,33 +3616,33 @@ Overfull \hbox (10.02258pt too wide) in alignment at lines 51--93
  [] [] [] [] [] [] [] 
  []
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 93.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 93.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [26]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 93.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+ <use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 93.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
 
 [27]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 93.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+ <use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 93.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [28]
-File: ./doc_config/images/logo.png Graphic file (type png)
+File: ./doc_config/images/logo3.png Graphic file (type png)
 
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 93.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 93.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [29])) (./ProjectCharter.bbl
-File: ./doc_config/images/logo.png Graphic file (type png)
+File: ./doc_config/images/logo3.png Graphic file (type png)
 
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 1.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [30]
 Chapter 3.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
@@ -3662,10 +3665,10 @@ less on input line 101.
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 101.
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 101.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+File: ./doc_config/images/logo3.png Graphic file (type png)
+<use ./doc_config/images/logo3.png>
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 101.
+(pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [31
 
 ]
@@ -3686,10 +3689,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 101.
  ) 
 Here is how much of TeX's memory you used:
- 29818 strings out of 492995
- 554436 string characters out of 6132704
- 685708 words of memory out of 5000000
- 32718 multiletter control sequences out of 15000+600000
+ 29823 strings out of 492995
+ 554580 string characters out of 6132704
+ 685712 words of memory out of 5000000
+ 32722 multiletter control sequences out of 15000+600000
  595222 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,16n,87p,10488b,894s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3704,10 +3707,10 @@ lic/lm/lmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr8
 /local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/local/texl
 ive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2017
 /texmf-dist/fonts/type1/public/lm/lmsso10.pfb>
-Output written on ProjectCharter.pdf (36 pages, 902766 bytes).
+Output written on ProjectCharter.pdf (36 pages, 961066 bytes).
 PDF statistics:
- 419 PDF objects out of 1000 (max. 8388607)
+ 421 PDF objects out of 1000 (max. 8388607)
  353 compressed objects within 4 object streams
  89 named destinations out of 1000 (max. 500000)
- 241 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 246 words of extra memory for PDF output out of 10000 (max. 10000000)
 
