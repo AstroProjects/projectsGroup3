@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.3.12)  17 MAR 2018 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.3.12)  17 MAR 2018 17:27
 entering extended mode
 **./ProjectCharter.tex
 (ProjectCharter.tex
@@ -1685,9 +1685,6 @@ LaTeX Warning: Label `my-label' multiply defined.
 
 LaTeX Warning: Label `my-label' multiply defined.
 
-
-LaTeX Warning: Label `my-label' multiply defined.
-
 )
 \openout1 = `ProjectCharter.aux'.
 
@@ -1951,12 +1948,12 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 29.
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (doc_config/cover.tex
-<./doc_config/images/logo.png, id=107, 825.0825pt x 740.7675pt>
+<./doc_config/images/logo.png, id=103, 825.0825pt x 740.7675pt>
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 11.
 (pdftex.def)             Requested size: 85.35696pt x 76.6243pt.
-<./doc_config/images/UPC_dpt.png, id=109, 640.3122pt x 170.91855pt>
+<./doc_config/images/UPC_dpt.png, id=105, 640.3122pt x 170.91855pt>
 File: ./doc_config/images/UPC_dpt.png Graphic file (type png)
 <use ./doc_config/images/UPC_dpt.png>
 Package pdftex.def Info: ./doc_config/images/UPC_dpt.png  used on input line 16
@@ -2127,115 +2124,79 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 3.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
  [3])
 (sections/GREEN/3.HIGH-LEVEL_REQUIREMENTS.tex
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 15.
-
-
-Overfull \hbox (717.23628pt too wide) in paragraph at lines 19--30
- [][] 
+Overfull \hbox (47.13203pt too wide) in alignment at lines 4--29
+ [] [] [] 
  []
 
+
+Underfull \vbox (badness 10000) detected at line 29
+ []
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 29.
+(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+[4]
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 30.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
-[4]) (sections/GREEN/4.ACCEPTANCE_CRITERIA.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--8
-[]|\T1/lmss/m/n/10.95 Research
+ [5]
+Overfull \hbox (47.13203pt too wide) in alignment at lines 32--61
+ [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--8
-\T1/lmss/m/n/10.95 and
+Underfull \vbox (badness 10000) detected at line 61
+ []
+
+) (sections/GREEN/4.ACCEPTANCE_CRITERIA.tex
+Overfull \hbox (135.5222pt too wide) in alignment at lines 5--44
+ [] [] [] 
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 11--14
-\T1/lmss/m/n/10.95 com-plete and un-der-stand-able. Fur-ther-more, it must be
+Underfull \vbox (badness 10000) detected at line 44
  []
 
-
-Underfull \hbox (badness 2197) in paragraph at lines 11--14
-\T1/lmss/m/n/10.95 well struc-tured, di-vid-ing the in-for-ma-tion into ap-proa
-ch,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
-[]|\T1/lmss/m/n/10.95 Test and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--20
-[]|\T1/lmss/m/n/10.95 Technical
- []
-
-
-Overfull \hbox (3.89755pt too wide) in paragraph at lines 32--32
-[]|\T1/lmss/m/n/10.95 Collaboration| 
- []
-
-
-Overfull \hbox (3.2888pt too wide) in paragraph at lines 35--35
-[]|\T1/lmss/m/n/10.95 Transparency| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--38
-[]|\T1/lmss/m/n/10.95 Legal
- []
-
-
-Overfull \hbox (1.61636pt too wide) in paragraph at lines 38--38
-\T1/lmss/m/n/10.95 re-quire-ments
- []
-
-
-Underfull \hbox (badness 5260) in paragraph at lines 38--38
-\T1/lmss/m/n/10.95 and eth-i-cal
- []
-
-
-Underfull \vbox (badness 10000) detected at line 42
- []
-
+pdfTeX warning (ext4): destination with the same identifier (name{table.1.1}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 \end{longtable}
+                    
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 42.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
-[5]
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 42.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 44.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
  [6]) (sections/GREEN/5.HIGH-LEVEL_RISKS.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 19.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 6.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
  [7]
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 53.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 41.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
  [8]
-<./images/risks1.jpg, id=242, 883.80188pt x 548.80031pt>
+<./images/risks1.jpg, id=238, 883.80188pt x 548.80031pt>
 File: ./images/risks1.jpg Graphic file (type jpg)
 <use ./images/risks1.jpg>
 Package pdftex.def Info: ./images/risks1.jpg  used on input line 68.
 (pdftex.def)             Requested size: 277.41176pt x 172.2617pt.
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 72.
+(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+
+[9]
 <./images/risks2.jpg, id=243, 931.22906pt x 557.08125pt>
 File: ./images/risks2.jpg Graphic file (type jpg)
 <use ./images/risks2.jpg>
 Package pdftex.def Info: ./images/risks2.jpg  used on input line 77.
 (pdftex.def)             Requested size: 426.79135pt x 255.31694pt.
-)
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 68.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [9 <./images/risks1.jpg>] (sections/BLUE/6.PROJECT_DELIVERABLES.tex
+) (sections/BLUE/6.PROJECT_DELIVERABLES.tex
 Underfull \hbox (badness 1796) in paragraph at lines 7--8
 \T1/lmss/m/n/10.95 man-age-ment strate-gies, in-clud-ing the Project
  []
@@ -2304,7 +2265,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 36.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [10 <./images/risks2.jpg>])
+ [10 <./images/risks1.jpg> <./images/risks2.jpg>])
 (sections/BLUE/7.PROJECT_MILESTONES.tex
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
 []\T1/lmss/m/n/10.95 Obtaining a po-ten-tial sup-pli-ers list, and
@@ -2365,7 +2326,11 @@ Overfull \hbox (77.19699pt too wide) in alignment at lines 2--58
  [] [] [] 
  []
 
-
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 58.
+(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
+[11]
 Underfull \vbox (badness 10000) detected at line 58
  []
 
@@ -2379,11 +2344,6 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 58.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
- [11]
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 58.
-(pdftex.def)             Requested size: 27.83588pt x 25.0pt.
  [12]) (sections/GREEN/8.PROJECT_OBJECTIVES.tex)
 (sections/RED/9.ESTIMATED_BUDGET.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
@@ -2392,7 +2352,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 28.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 27.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
 [13]
 File: ./doc_config/images/logo.png Graphic file (type png)
@@ -2415,11 +2375,17 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1.
 Underfull \vbox (badness 10000) detected at line 23
  []
 
+pdfTeX warning (ext4): destination with the same identifier (name{table.1.2}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.23 \end{longtable}
+                    
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 28.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
-[17]
+ [17]
 Overfull \hbox (11.78769pt too wide) in alignment at lines 30--52
  [] [] 
  []
@@ -2459,7 +2425,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1.
  [20]
 Chapter 2.
 (sections/MAGENTA/2.1.STAKEHOLDER_ANALISIS_MATRIX.tex
-<././images/identitymatrix.png, id=300, 1009.8528pt x 529.0164pt>
+<././images/identitymatrix.png, id=296, 1009.8528pt x 529.0164pt>
 File: ././images/identitymatrix.png Graphic file (type png)
 <use ././images/identitymatrix.png>
 Package pdftex.def Info: ././images/identitymatrix.png  used on input line 4.
@@ -2919,7 +2885,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 101.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 101.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 101.
 Package rerunfilecheck Info: File `ProjectCharter.out' has not changed.
-(rerunfilecheck)             Checksum: CE45C5B727D218DA986BD3635070F265;1730.
+(rerunfilecheck)             Checksum: A00783454B899F81E415B392E2F13BFE;1654.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2930,10 +2896,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 101.
  ) 
 Here is how much of TeX's memory you used:
- 30093 strings out of 493305
- 567945 string characters out of 3129802
- 688242 words of memory out of 3000000
- 33003 multiletter control sequences out of 15000+200000
+ 30092 strings out of 493305
+ 567907 string characters out of 3129802
+ 688346 words of memory out of 3000000
+ 33004 multiletter control sequences out of 15000+200000
  586879 words of font info for 63 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,16n,87p,10494b,910s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2950,9 +2916,9 @@ KTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Users/bcald/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/public/lm/lmss9.pfb><C:/Users/bcald/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/bcald/AppData/Loca
 l/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb>
-Output written on ProjectCharter.pdf (33 pages, 635934 bytes).
+Output written on ProjectCharter.pdf (33 pages, 635038 bytes).
 PDF statistics:
- 389 PDF objects out of 1000 (max. 8388607)
- 86 named destinations out of 1000 (max. 500000)
- 234 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 384 PDF objects out of 1000 (max. 8388607)
+ 84 named destinations out of 1000 (max. 500000)
+ 226 words of extra memory for PDF output out of 10000 (max. 10000000)
 
