@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.10)  17 MAR 2018 19:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.10)  17 MAR 2018 19:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2085,37 +2085,32 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 62.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
  [5])
 (./sections/GREEN/4.ACCEPTANCE_CRITERIA.tex
-Underfull \hbox (badness 1062) in paragraph at lines 17--19
-\T1/lmss/m/n/10.95 com-plete and un-der-stand-able. Fur-ther-more, it must be
- []
-
-
-Underfull \hbox (badness 2197) in paragraph at lines 17--19
-\T1/lmss/m/n/10.95 well struc-tured, di-vid-ing the in-for-ma-tion into ap-proa
-ch,
+Underfull \hbox (badness 1152) in paragraph at lines 21--26
+[]|\T1/lmss/m/n/10.95 The eval-u-a-tion and val-i-da-tion tests must be car-rie
+d out
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{table.1.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.56 \end{longtable}
+l.53 \end{longtable}
                     
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 56.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 53.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
  [6])
 (./sections/GREEN/5.HIGH-LEVEL_RISKS.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 7.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 6.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
 
 [7]
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 42.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 41.
 (pdftex.def)             Requested size: 27.83588pt x 25.0pt.
  [8]
 <./images/risks1.jpg, id=245, 883.80188pt x 548.80031pt>
@@ -4017,7 +4012,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 101.
 Here is how much of TeX's memory you used:
  29761 strings out of 492995
  553382 string characters out of 6132704
- 684129 words of memory out of 5000000
+ 684128 words of memory out of 5000000
  32662 multiletter control sequences out of 15000+600000
  589647 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -4033,7 +4028,7 @@ lic/lm/lmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr8
 /local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/local/texl
 ive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2017
 /texmf-dist/fonts/type1/public/lm/lmsso10.pfb>
-Output written on ProjectCharter.pdf (38 pages, 842868 bytes).
+Output written on ProjectCharter.pdf (38 pages, 842839 bytes).
 PDF statistics:
  423 PDF objects out of 1000 (max. 8388607)
  359 compressed objects within 4 object streams
