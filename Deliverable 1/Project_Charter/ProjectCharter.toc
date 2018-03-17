@@ -15,15 +15,15 @@
 \contentsline {subsection}{\numberline {1.3.3}Business requirements}{5}{subsection.1.3.3}
 \contentsline {section}{\numberline {1.4}Acceptance Criteria}{5}{section.1.4}
 \contentsline {section}{\numberline {1.5}High-Level Risks}{7}{section.1.5}
-\contentsline {section}{\numberline {1.6}Project deliverables}{9}{section.1.6}
+\contentsline {section}{\numberline {1.6}Project deliverables}{10}{section.1.6}
 \contentsline {section}{\numberline {1.7}Project milestones}{11}{section.1.7}
-\contentsline {section}{\numberline {1.8}Project Objectives}{12}{section.1.8}
-\contentsline {section}{\numberline {1.9}Estimated Budget}{12}{section.1.9}
-\contentsline {section}{\numberline {1.10}Project organization}{15}{section.1.10}
-\contentsline {subsection}{\numberline {1.10.1}Customers}{15}{subsection.1.10.1}
-\contentsline {subsection}{\numberline {1.10.2}Stakeholders}{16}{subsection.1.10.2}
-\contentsline {subsection}{\numberline {1.10.3}Roles and responsibilities}{18}{subsection.1.10.3}
-\contentsline {chapter}{\numberline {2}Stakeholder identification}{20}{chapter.2}
-\contentsline {section}{\numberline {2.1}Stakeholder analysis graphic}{20}{section.2.1}
-\contentsline {section}{\numberline {2.2}Stakeholder register}{20}{section.2.2}
-\contentsline {chapter}{\numberline {3}Bibliography}{27}{chapter.3}
+\contentsline {section}{\numberline {1.8}Project Objectives}{13}{section.1.8}
+\contentsline {section}{\numberline {1.9}Estimated Budget}{13}{section.1.9}
+\contentsline {section}{\numberline {1.10}Project organization}{16}{section.1.10}
+\contentsline {subsection}{\numberline {1.10.1}Customers}{16}{subsection.1.10.1}
+\contentsline {subsection}{\numberline {1.10.2}Stakeholders}{17}{subsection.1.10.2}
+\contentsline {subsection}{\numberline {1.10.3}Roles and responsibilities}{19}{subsection.1.10.3}
+\contentsline {chapter}{\numberline {2}Stakeholder identification}{21}{chapter.2}
+\contentsline {section}{\numberline {2.1}Stakeholder analysis graphic}{21}{section.2.1}
+\contentsline {section}{\numberline {2.2}Stakeholder register}{21}{section.2.2}
+\contentsline {chapter}{\numberline {3}Bibliography}{28}{chapter.3}
