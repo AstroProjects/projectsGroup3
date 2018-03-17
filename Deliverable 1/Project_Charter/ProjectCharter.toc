@@ -1,11 +1,19 @@
-\contentsline {chapter}{List of Tables}{ii}{section*.1}
-\contentsline {chapter}{List of Figures}{iii}{section*.2}
+\contentsline {chapter}{List of Tables}{ii}{section*.3}
+\contentsline {chapter}{List of Figures}{iii}{section*.4}
 \contentsline {chapter}{\numberline {1}Project Charter}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Project Purpose and Justification}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Vision}{2}{subsection.1.1.1}
+<<<<<<< HEAD
 \contentsline {subsection}{\numberline {1.1.2}Objectives}{2}{subsection.1.1.2}
 \contentsline {subsection}{\numberline {1.1.3}Scope}{3}{subsection.1.1.3}
 \contentsline {section}{\numberline {1.2}Project Description}{4}{section.1.2}
+=======
+\contentsline {paragraph}{}{2}{section*.5}
+\contentsline {subsection}{\numberline {1.1.2}Objectives}{2}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Scope}{3}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}Project Description}{4}{section.1.2}
+\contentsline {paragraph}{}{4}{section*.6}
+>>>>>>> cd14dfc668a52608e3bb7627ae913541158296c3
 \contentsline {section}{\numberline {1.3}High-Level Requirements}{4}{section.1.3}
 \contentsline {subsection}{\numberline {1.3.1}Call for proposals requirements}{4}{subsection.1.3.1}
 \contentsline {subsection}{\numberline {1.3.2}Technical requirements}{5}{subsection.1.3.2}
