@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.10)  18 MAR 2018 01:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.10)  18 MAR 2018 01:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2372,82 +2372,82 @@ File: ./doc_config/images/logo3.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 11.
 (pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [15 <./images/budget/budgetPie.png>]
-Underfull \hbox (badness 1152) in paragraph at lines 31--31
+Underfull \hbox (badness 1152) in paragraph at lines 29--29
 []|\T1/lmss/bx/n/10.95 (A) Di-rect Per-son-nel
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 31--31
+Underfull \hbox (badness 3138) in paragraph at lines 29--29
 []|\T1/lmss/bx/n/10.95 (C) Di-rect costs of
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 31--31
+Underfull \hbox (badness 3271) in paragraph at lines 29--29
 []|\T1/lmss/bx/n/10.95 (H) To-tal es-ti-mated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
 []|\T1/lmss/bx/n/10.95 (I) Re-im-bourse-ment
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 31--31
+Underfull \hbox (badness 1603) in paragraph at lines 29--29
 []|\T1/lmss/bx/n/10.95 (J) Max. EU
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
 []|\T1/lmss/bx/n/10.95 (K) Re-quested EU
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 31--31
+Underfull \hbox (badness 1622) in paragraph at lines 29--29
 []|\T1/lmss/bx/n/10.95 BHO Le-gal Recht-san-wälte
  []
 
 
-Overfull \hbox (7.43277pt too wide) in paragraph at lines 31--32
+Overfull \hbox (7.43277pt too wide) in paragraph at lines 29--30
  [][] 
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 49--49
+Underfull \hbox (badness 1152) in paragraph at lines 48--48
 []|\T1/lmss/bx/n/10.95 (A) Di-rect Per-son-nel
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 49--49
+Underfull \hbox (badness 3138) in paragraph at lines 48--48
 []|\T1/lmss/bx/n/10.95 (C) Di-rect costs of
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 49--49
+Underfull \hbox (badness 3271) in paragraph at lines 48--48
 []|\T1/lmss/bx/n/10.95 (H) To-tal es-ti-mated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
 []|\T1/lmss/bx/n/10.95 (I) Re-im-bourse-ment
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 49--49
+Underfull \hbox (badness 1603) in paragraph at lines 48--48
 []|\T1/lmss/bx/n/10.95 (J) Max. EU
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
 []|\T1/lmss/bx/n/10.95 (K) Re-quested EU
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
 []|\T1/lmss/bx/n/10.95 WP4- Part-ner-ship and
  []
 
 
-Overfull \hbox (9.62279pt too wide) in paragraph at lines 49--50
+Overfull \hbox (9.62279pt too wide) in paragraph at lines 48--49
  [][] 
  []
 
@@ -2492,263 +2492,263 @@ Overfull \hbox (9.62279pt too wide) in paragraph at lines 70--71
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 90--90
+Underfull \hbox (badness 1152) in paragraph at lines 91--91
 []|\T1/lmss/bx/n/10.95 (A) Di-rect Per-son-nel
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 90--90
+Underfull \hbox (badness 3138) in paragraph at lines 91--91
 []|\T1/lmss/bx/n/10.95 (C) Di-rect costs of
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 90--90
+Underfull \hbox (badness 3271) in paragraph at lines 91--91
 []|\T1/lmss/bx/n/10.95 (H) To-tal es-ti-mated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--90
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
 []|\T1/lmss/bx/n/10.95 (I) Re-im-bourse-ment
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 90--90
+Underfull \hbox (badness 1603) in paragraph at lines 91--91
 []|\T1/lmss/bx/n/10.95 (J) Max. EU
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--90
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
 []|\T1/lmss/bx/n/10.95 (K) Re-quested EU
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--90
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
 []|\T1/lmss/bx/n/10.95 WP4- Part-ner-ship and
  []
 
 
-Overfull \hbox (9.62279pt too wide) in paragraph at lines 90--91
+Overfull \hbox (9.62279pt too wide) in paragraph at lines 91--92
  [][] 
  []
 
 File: ./doc_config/images/logo3.png Graphic file (type png)
 <use ./doc_config/images/logo3.png>
-Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 92.
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 95.
 (pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [16
 
 ]
-Underfull \hbox (badness 1152) in paragraph at lines 110--110
+Underfull \hbox (badness 1152) in paragraph at lines 112--112
 []|\T1/lmss/bx/n/10.95 (A) Di-rect Per-son-nel
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 110--110
+Underfull \hbox (badness 3138) in paragraph at lines 112--112
 []|\T1/lmss/bx/n/10.95 (C) Di-rect costs of
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 110--110
+Underfull \hbox (badness 3271) in paragraph at lines 112--112
 []|\T1/lmss/bx/n/10.95 (H) To-tal es-ti-mated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
 []|\T1/lmss/bx/n/10.95 (I) Re-im-bourse-ment
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 110--110
+Underfull \hbox (badness 1603) in paragraph at lines 112--112
 []|\T1/lmss/bx/n/10.95 (J) Max. EU
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
 []|\T1/lmss/bx/n/10.95 (K) Re-quested EU
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
 []|\T1/lmss/bx/n/10.95 WP4- Part-ner-ship and
  []
 
 
-Overfull \hbox (9.62279pt too wide) in paragraph at lines 110--111
+Overfull \hbox (9.62279pt too wide) in paragraph at lines 112--113
  [][] 
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 130--130
+Underfull \hbox (badness 1152) in paragraph at lines 133--133
 []|\T1/lmss/bx/n/10.95 (A) Di-rect Per-son-nel
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 130--130
+Underfull \hbox (badness 3138) in paragraph at lines 133--133
 []|\T1/lmss/bx/n/10.95 (C) Di-rect costs of
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 130--130
+Underfull \hbox (badness 3271) in paragraph at lines 133--133
 []|\T1/lmss/bx/n/10.95 (H) To-tal es-ti-mated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
 []|\T1/lmss/bx/n/10.95 (I) Re-im-bourse-ment
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 130--130
+Underfull \hbox (badness 1603) in paragraph at lines 133--133
 []|\T1/lmss/bx/n/10.95 (J) Max. EU
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
 []|\T1/lmss/bx/n/10.95 (K) Re-quested EU
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
 []|\T1/lmss/bx/n/10.95 WP4- Part-ner-ship and
  []
 
 
-Overfull \hbox (9.62279pt too wide) in paragraph at lines 130--131
+Overfull \hbox (9.62279pt too wide) in paragraph at lines 133--134
  [][] 
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 149--149
+Underfull \hbox (badness 1152) in paragraph at lines 153--153
 []|\T1/lmss/bx/n/10.95 (A) Di-rect Per-son-nel
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 149--149
+Underfull \hbox (badness 3138) in paragraph at lines 153--153
 []|\T1/lmss/bx/n/10.95 (C) Di-rect costs of
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 149--149
+Underfull \hbox (badness 3271) in paragraph at lines 153--153
 []|\T1/lmss/bx/n/10.95 (H) To-tal es-ti-mated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--149
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
 []|\T1/lmss/bx/n/10.95 (I) Re-im-bourse-ment
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 149--149
+Underfull \hbox (badness 1603) in paragraph at lines 153--153
 []|\T1/lmss/bx/n/10.95 (J) Max. EU
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--149
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
 []|\T1/lmss/bx/n/10.95 (K) Re-quested EU
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--149
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
 []|\T1/lmss/bx/n/10.95 WP4- Part-ner-ship and
  []
 
 
-Overfull \hbox (9.62279pt too wide) in paragraph at lines 149--150
+Overfull \hbox (9.62279pt too wide) in paragraph at lines 153--154
  [][] 
  []
 
 File: ./doc_config/images/logo3.png Graphic file (type png)
 <use ./doc_config/images/logo3.png>
-Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 151.
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 157.
 (pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [17]
-Underfull \hbox (badness 5847) in paragraph at lines 169--169
+Underfull \hbox (badness 5847) in paragraph at lines 174--174
 []|\T1/lmss/bx/n/10.95 BHO Le-gal Recht-san-wlte
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 169--169
+Underfull \hbox (badness 1152) in paragraph at lines 174--174
 []|\T1/lmss/bx/n/10.95 (A) Di-rect Per-son-nel
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 169--169
+Underfull \hbox (badness 3138) in paragraph at lines 174--174
 []|\T1/lmss/bx/n/10.95 (C) Di-rect costs of
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 169--169
+Underfull \hbox (badness 3271) in paragraph at lines 174--174
 []|\T1/lmss/bx/n/10.95 (H) To-tal es-ti-mated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 169--169
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
 []|\T1/lmss/bx/n/10.95 (I) Re-im-bourse-ment
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 169--169
+Underfull \hbox (badness 1603) in paragraph at lines 174--174
 []|\T1/lmss/bx/n/10.95 (J) Max. EU
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 169--169
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
 []|\T1/lmss/bx/n/10.95 (K) Re-quested EU
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 169--169
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
 []|\T1/lmss/bx/n/10.95 WP4- Part-ner-ship and
  []
 
 
-Overfull \hbox (9.62279pt too wide) in paragraph at lines 169--170
+Overfull \hbox (9.62279pt too wide) in paragraph at lines 174--175
  [][] 
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 189--189
+Underfull \hbox (badness 1152) in paragraph at lines 195--195
 []|\T1/lmss/bx/n/10.95 (A) Di-rect Per-son-nel
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 189--189
+Underfull \hbox (badness 3138) in paragraph at lines 195--195
 []|\T1/lmss/bx/n/10.95 (C) Di-rect costs of
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 189--189
+Underfull \hbox (badness 3271) in paragraph at lines 195--195
 []|\T1/lmss/bx/n/10.95 (H) To-tal es-ti-mated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
 []|\T1/lmss/bx/n/10.95 (I) Re-im-bourse-ment
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 189--189
+Underfull \hbox (badness 1603) in paragraph at lines 195--195
 []|\T1/lmss/bx/n/10.95 (J) Max. EU
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
 []|\T1/lmss/bx/n/10.95 (K) Re-quested EU
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
 []|\T1/lmss/bx/n/10.95 WP4- Part-ner-ship and
  []
 
 
-Overfull \hbox (9.62279pt too wide) in paragraph at lines 189--190
+Overfull \hbox (9.62279pt too wide) in paragraph at lines 195--196
  [][] 
  []
 
 File: ./doc_config/images/logo3.png Graphic file (type png)
 <use ./doc_config/images/logo3.png>
-Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 192.
+Package pdftex.def Info: ./doc_config/images/logo3.png used on input line 200.
 (pdftex.def)             Requested size: 34.03711pt x 25.0pt.
  [18])
 <./images/budget/rulesBudget2020.png, id=305, 969.6225pt x 209.28188pt>
@@ -3125,7 +3125,7 @@ lic/lm/lmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr8
 /local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/local/texl
 ive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2017
 /texmf-dist/fonts/type1/public/lm/lmsso10.pfb>
-Output written on ProjectCharter.pdf (36 pages, 958020 bytes).
+Output written on ProjectCharter.pdf (36 pages, 958037 bytes).
 PDF statistics:
  421 PDF objects out of 1000 (max. 8388607)
  353 compressed objects within 4 object streams
