@@ -24,15 +24,23 @@ The parameters used have been established as follows:
 
 	\item \textbf{Performance Factor:} Determines the ability of the resource assigned to perform the task. This parameter has been established taking into account if the resource was a Senior-Employee, an Average-Employee, a Junior-Employee or a combination of them (in section \ref{sec4.1} each type of employee has been defined).
 	
-\end{itemize}
+\end{itemize} 
 
-\textbf{Analogous Estimate}\\
+\textbf{Analogous Estimate}
+
+The analogous estimation technique is based on the knowledge about the activity duration of previous similar projects. Hence, the duration of the current project completely relies on the duration of the previous one and the weight this current activity has compared to the previous one. 
+\begin{equation}
+\centering
+\notag Duration Estimate=Previous activity Duration * Multiplier
+\end{equation}
+
+Analogous estimating can be less accurate than other estimation methods when the previous activities are not similar enough. Therefore, it has been used to estimate the duration of the management activities because it is possible to obtain a reliable estimation from the management timings of previous projects. \\
 
 \textbf{Three Point Estimate}
 
 The third method used to estimate the duration of the activities is the three-point estimation. This method takes into account the uncertainties and risks in order to provide an expected duration of each activity. 
 
-The expected duration is calculated by using a Beta Distribution which gives more weight to the most likely duration of the activity than the other parameters have because it is the most realistic one. 
+The expected duration is calculated by using a Beta Distribution which gives more weight to the most likely duration of the activity than the other parameters have because it is the most realistic one.
 
 \begin{equation}
 \centering
@@ -53,7 +61,7 @@ In fact, the parameters from which each activity duration is calculated are defi
 
 This method has been used to estimate the duration of the activities that are technical, because there is no data about previous projects due to the fact it is a state of the art project. However, it is a good method because by knowing the resources available and the productivity of the team, realistic expectations of the availability for the activity and its workload are done. \\
 
-
+\textbf{Estimate activity duration}
 \begin{longtable}[H]{C{1.5cm} C{2cm} C{2cm} C{2cm} C{2.4cm} C{2.4cm} }
 
 	\toprule[2pt]
