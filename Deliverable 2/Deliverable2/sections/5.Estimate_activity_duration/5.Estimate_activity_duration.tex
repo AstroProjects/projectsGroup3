@@ -28,7 +28,30 @@ The parameters used have been established as follows:
 
 \textbf{Analogous Estimate}\\
 
-\textbf{Three Point Estimate} \\ 
+\textbf{Three Point Estimate}
+
+The third method used to estimate the duration of the activities is the three-point estimation. This method takes into account the uncertainties and risks in order to provide an expected duration of each activity. 
+
+The expected duration is calculated by using a Beta Distribution which gives more weight to the most likely duration of the activity than the other parameters have because it is the most realistic one. 
+
+\begin{equation}
+\centering
+\notag Beta Distribution=\frac{Optimistic + (Most Likely) * 6 + Pessimistic}{6}
+\end{equation}
+
+In fact, the parameters from which each activity duration is calculated are defined as: 
+
+\begin{itemize}
+
+\item \textbf{Most Likely:} this estimate is based on the duration of the activity in a realistic way, by taking into account resources available and productivity for the corresponding activity. 
+
+\item \textbf{Optimistic:} this estimate is based on the best-scenario for the activity. 
+
+\item \textbf{Pessimistic:} this estimate is based on the worst-case scenario for the activity. 
+
+\end{itemize}
+
+This method has been used to estimate the duration of the activities that are technical, because there is no data about previous projects due to the fact it is a state of the art project. However, it is a good method because by knowing the resources available and the productivity of the team, realistic expectations of the availability for the activity and its workload are done. \\
 
 
 \begin{longtable}[H]{C{1.5cm} C{2cm} C{2cm} C{2cm} C{2.4cm} C{2.4cm} }
@@ -87,7 +110,6 @@ The parameters used have been established as follows:
 	\caption{List of Analogous Estimates}
 
 \end{longtable}
-	
 
 \begin{longtable}[H]{C{1.5cm} C{2cm} C{2cm} C{2cm} C{3cm} C{2cm} }
 
