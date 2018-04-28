@@ -12,7 +12,7 @@ Relationship types are:
 \item SS: Start-to-Start
 \item SF: Start-to-Finish
 \end{itemize}
-\begin{longtable}[H]{L{1.5cm} L{5cm} C{2.3cm} C{2.2cm} C{1.7cm} }
+\begin{longtable}[H]{L{1.5cm} L{5cm} L{2.3cm} C{2.2cm} C{1.7cm} }
 	\toprule[2pt]
 	\textbf{WBS-ID} &  \textbf{Activity}  & \textbf{Predecessors} & \textbf{Relationship} &\textbf{Lag} \\ \bottomrule[2pt]
 	\toprule[2pt]
@@ -24,7 +24,7 @@ Relationship types are:
 	\toprule[1.5pt]
 	\textbf{1.} & \multicolumn{4}{l}{\textbf{PROJECT MANAGEMENT}}\\ \bottomrule[1.5pt]
 	\color{gray}1.0. & 	\color{gray}Project management plan & 	\color{gray} 0.\newline 	\color{gray} 1.1.\newline 	\color{gray}2.2.5.& 	\color{gray}FS\newline 	\color{gray}FF\newline 	\color{gray}FF & 	\color{gray}1 month\newline 	\color{gray}0 \newline 	\color{gray}0\\ \midrule
-	1.1. & Development of the project management plan & 0 & SS & 0\\ \midrule
+	1.1. & Development of the project management plan & 0. & SS & 0\\ \midrule
 	1.2.1.& Meetings & 0. & SS & 0 \\ \midrule
 	1.2.2. & Task tracking and scheduling & 0. & SS & 0 \\ \midrule
 	1.3. & Annual reporting & 0. & SS & 0 \\ \midrule
@@ -35,44 +35,44 @@ Relationship types are:
 	\textbf{2.} & \multicolumn{4}{l}{\textbf{QUALITY AND ADMINISTRATION}}\\ \bottomrule[1.5pt]
 	2.1.1. & Employment of the necessary staff & 1.0. & FS & 0	\\ \midrule
 	2.1.2. & Human resources management & 2.1.1. & FS & 0	\\ \midrule
-	2.2.1.1. & Fix & 0. & SS & 0\\ \midrule
-	2.2.1.2. & Variable & 2.2.1.1. & FS & 0\\ \midrule
+	2.2.1.1. & Fix costs & 0. & SS & 0\\ \midrule
+	2.2.1.2. & Variable costs & 2.2.1.1. & FS & 0\\ \midrule
 	2.2.2. & Funding & 2.2.1.2. & FS & 0\\ \midrule
 	2.2.3. & Economic feasibility & 2.2.2.& FS & 0\\ \midrule
 	2.2.4. & Evolution monitoring & 2.2.3. & FS & 0\\ \midrule
 	2.2.5. & Additional and follow-up funding seek & 2.2.4. & FS & 0\\ \midrule
-	2.3.1. & Guidelines preparation & 0 & SS & 0\\ \midrule
-	2.3.2. & Document revision & 0 & SS & 0\\ \midrule
-	2.3.3. & Document rectification & 0 & SS & 0\\ \midrule
-	2.3.4. & Document approval & 0 & SS & 0\\ \midrule
-	2.4. & Periodic monitoring & 0 & SS & 0\\
+	2.3.1. & Guidelines preparation & 0. & SS & 0\\ \midrule
+	2.3.2. & Document revision & 0. & SS & 0\\ \midrule
+	2.3.3. & Document rectification & 0. & SS & 0\\ \midrule
+	2.3.4. & Document approval & 0. & SS & 0\\ \midrule
+	2.4. & Periodic monitoring & 0. & SS & 0\\
 	
 	
 	%STATE OF THE ART
 	\toprule[1.5pt]
 	\textbf{3.} & \multicolumn{4}{l}{\textbf{STATE OF THE ART}}\\ \bottomrule[1.5pt]
-	\color{gray}3.0. & \color{gray}State of the Art completion & \color{gray}0\newline\color{gray}3.1.2.\newline\color{gray}3.2.2.\newline3\color{gray}.3.2. & \color{gray}FS\newline \color{gray}FF \newline \color{gray}FF \newline \color{gray}FF & \color{gray}4 months \newline\color{gray} 0 \newline \color{gray}0 \newline \color{gray}0	\\ \midrule
-	3.1.1. & Search for current space applications & 1.0 & FS & 0\\ \midrule
+	\color{gray}3.0. & \color{gray}State of the Art completion & \color{gray}0.\newline\color{gray}3.1.2.\newline\color{gray}3.2.2.\newline3\color{gray}.3.2. & \color{gray}FS\newline \color{gray}FF \newline \color{gray}FF \newline \color{gray}FF & \color{gray}4 months \newline\color{gray} 0 \newline \color{gray}0 \newline \color{gray}0	\\ \midrule
+	3.1.1. & Search for current space applications & 1.0. & FS & 0\\ \midrule
 	3.1.2. & Requirements definition & 3.1.1. & FS & 0\\ \midrule
-	3.2.1. & Search for current modular systems with space applications & 1.0 & FS & 0\\ \midrule
+	3.2.1. & Search for current modular systems with space applications & 1.0. & FS & 0\\ \midrule
 	3.2.2. & Requirements definition & 3.2.1. & FS & 0\\ \midrule
-	3.3.1.1. & Weather forecast & 1.0 & FS & 0 \\ \midrule
-	3.3.1.2. & Urban planning (3D models) & 1.0 & FS & 0 \\ \midrule
-	3.3.1.3. & Greenhouse emissions reductions (pollution) & 1.0 & FS & 0 \\ \midrule
+	3.3.1.1. & Weather forecast & 1.0. & FS & 0 \\ \midrule
+	3.3.1.2. & Urban planning (3D models) & 1.0. & FS & 0 \\ \midrule
+	3.3.1.3. & Greenhouse emissions reductions (pollution) & 1.0. & FS & 0 \\ \midrule
 	3.3.2. & Requirements definition  & 3.3.1. & FS & 0 \\ 
 	
 	%PRODUCT DEVELOPMENT 
 	\toprule[1.5pt]
 	\textbf{4.} & \multicolumn{4}{l}{\textbf{PRODUCT DEVELOPMENT}}\\ \bottomrule[1.5pt]
-	\color{gray}4.1.1.0. & \color{gray}Payload preliminary report & \color{gray}0\newline \color{gray}4.1.1.2. & \color{gray}FS\newline \color{gray}FF & \color{gray}10 months\newline \color{gray}0\\ \midrule
-	4.1.1.1. & Research & 3.0 & FS & 0\\ \midrule
+	\color{gray}4.1.1.0. & \color{gray}Payload preliminary report & \color{gray}0.\newline \color{gray}4.1.1.2. & \color{gray}FS\newline \color{gray}FF & \color{gray}10 months\newline \color{gray}0\\ \midrule
+	4.1.1.1. & Research & 3.0. & FS & 0\\ \midrule
 	4.1.1.2. & Development & 4.1.1.1. & FS & 0\\ \midrule
-	\color{gray}4.1.2.0. & \color{gray}Modular system preliminary design & \color{gray}0\newline\color{gray}4.1.2.1. \newline\color{gray}4.1.2.4. & \color{gray}FS\newline \color{gray}FF \newline \color{gray}FF & \color{gray}13 months\newline \color{gray}0 \newline \color{gray}0\\ \midrule
+	\color{gray}4.1.2.0. & \color{gray}Modular system preliminary design & \color{gray}0.\newline\color{gray}4.1.2.1. \newline\color{gray}4.1.2.4. & \color{gray}FS\newline \color{gray}FF \newline \color{gray}FF & \color{gray}13 months\newline \color{gray}0 \newline \color{gray}0\\ \midrule
 	4.1.2.1. & Development of physical framework for sensor blocks & 4.1.1.0. & FS & 0\\ \midrule
 	4.1.2.2. & Development of systems interaction and applications & 4.1.1.0. & FS & 0\\ \midrule
 	4.1.2.3. & Development of sensors data fusion software & 4.1.2.2. & FS & 0\\ \midrule
 	4.1.2.4. & Definition of SATCOM applications & 4.1.2.3. & FS & 0\\ \midrule
-	\color{gray}4.1.3.0. & \color{gray}Interaction platform preliminary design & \color{gray}0\newline4\color{gray}.1.3.3. & \color{gray}FS\newline \color{gray}FF \newline \color{gray}FF & \color{gray}16 months \newline \color{gray}0\\ \midrule
+	\color{gray}4.1.3.0. & \color{gray}Interaction platform preliminary design & \color{gray}0.\newline4\color{gray}.1.3.3. & \color{gray}FS\newline \color{gray}FF \newline \color{gray}FF & \color{gray}16 months \newline \color{gray}0\\ \midrule
 	4.1.3.1. & Implement web-based servers for sharing sensors data & 4.1.2.0. & FS & 0\\ \midrule
 	4.1.3.2. & Implement processing algorithms based on applications & 4.1.2.0. & FS & 0\\ \midrule
 	4.1.3.3. & Pre-design a full services stakeholders platform & 4.1.3.1.\newline4.1.3.2. & FS\newline FS & 0 \newline 0\\ \midrule
