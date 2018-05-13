@@ -1,16 +1,10 @@
-Table 1.1.1 - posicion columna 7 fila 1: SUPPLIERS (Con dos P)
 
-Punto 1.2 Statement of work - Primera línea, falta espacio después de 1r paréntesis
 
-Punto 1.2 Statement of work - Tercera línea, hay escrito "realet" qué quiere decir?
 
-Tabla 1.2.1: SOW 5.1.1: Manyfacturing ... - En la descripción de la fila "Type of contract" hay un "this" que DEBE ser "these". REVISAR EN EL RESTO DE TABLAS DE ESTE APARTADO PQ ESTE ERROR SE REPITE EN TODAS
-En esta misma tabla, en la descripción de la fila "Risk control actions", a la primera frase le faltaría algo después de "...fabrication progress" IGUAL QUE ANTES REVISAR ESTE ERROR EN TODAS LAS TABLAS, PARECE QUE SE REPITE EN TODAS
-En esta misma tabla, la descripción de "Form and format", la palabra "correspondent" no es del todo correcta. Tal vez "appropriate" sería mejor 
+Tabla 1.2.1: SOW 5.1.1: Manyfacturing ... En la descripción de la fila "Risk control actions", a la primera frase le faltaría algo después de "...fabrication progress" IGUAL QUE ANTES REVISAR ESTE ERROR EN TODAS LAS TABLAS, PARECE QUE SE REPITE EN TODAS
 
-Tabla 1.2.2: SOW 5.1.2 - En la fila "Description" hay que poner "... supplier HAS" en lugar de "Have"
-En esta misma tabla, el apartado "Form and format" hay un "de" que tiene que ser "THE". También hay un "accompanied" que no me acaba de gustar
 
-Tabla 1.2.3: SOW 5.6. - EN la fila "Constraints" las palabras "subsystem" y "element" deben ir en PLURAL. 
+Tabla 1.2.2:SOW 5.1.2 en el apartado form and format hay un "accompanied" que no me acaba de gustar
+
 
 
