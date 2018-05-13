@@ -1,0 +1,8 @@
+3.1 Definitions of probablity - Cambiar la frase "the 1% is associated with the minimum probability meaning
+it is very rare it occurs and the maximum 100% means a risk is unavoidable" por: "the 1% is associated with the
+minimum probability of a risk, meaning that it will very rarely occur; while the maximum 100% means the risk will be unavoidable".
+
+Section 3.2 in table 3.2.1 - En la descripción de "Very low" hay que cambiar "..produces and insignificant.." por "produces AN insignificant"
+Section 3.2 in table 3.2.3 - Quitar todos los "about" en las descripciones. En los que haya dos porcentajes, donde iba el "about" poner "from"
+
+
