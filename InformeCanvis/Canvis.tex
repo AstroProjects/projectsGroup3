@@ -1,0 +1,74 @@
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% LaTeX Template
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{doc_config/doc_config} % Document Configurations
+
+\input{doc_config/doc_info} % Document information
+
+\input{doc_config/headers_and_footers} % Headers and footers
+
+\input{doc_config/defined_stuff} % User defined environments
+
+% Paragraph formatting
+\setlength{\parindent}{0pt}
+
+\usepackage{epigraph}
+\usepackage{tocloft}
+\usepackage{multicol}
+\usepackage[T1]{fontenc}
+\usepackage{titlesec, blindtext, color}
+\definecolor{gray75}{gray}{0.75}
+\newcommand{\hsp}{\hspace{20pt}}
+\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\begin{document}
+
+
+% DOCUMENT SECTIONS
+
+\newpage
+\pagenumbering{arabic}
+
+\newpage
+\setlength{\parskip}{1em}
+
+\section*{Reporting Changes}
+
+\begin{longtable}[H]{l l p{10.3cm}}
+	
+	\toprule[2pt]
+	
+	\textbf{Deliverable} & \textbf{Section} & \textbf{Description} \\
+	
+	\midrule[1.5pt] 
+	\endhead
+	
+	DX & X.X & Brief description of the changes or corrections done \vspace{0.2cm} \\
+	
+	\midrule
+
+	DX & X.X & Brief description of the changes or corrections done \vspace{0.2cm} \\
+	
+	\midrule
+
+	DX & X.X & Brief description of the changes or corrections done \vspace{0.2cm} \\
+	
+	\midrule
+
+	DX & X.X & Brief description of the changes or corrections done \vspace{0.2cm} \\
+	
+	\midrule
+		
+	DX & X.X & Brief description of the changes or corrections done \vspace{0.2cm} \\
+	
+	\bottomrule[2pt]
+	
+	\caption{Reporting Changes}
+\end{longtable}
+
+\end{document}
