@@ -1,0 +1,225 @@
+\begin{table}[H]
+\centering
+\begin{tabular}{| >{\raggedright\arraybackslash}p{3cm} | >{\raggedright\arraybackslash}m{1cm} | >{\raggedright\arraybackslash}m{1cm} | >{\raggedright\arraybackslash}m{1cm}| >{\raggedright\arraybackslash}m{1cm}| >{\raggedright\arraybackslash}m{1cm} | >{\raggedright\arraybackslash}m{1cm} |>{\raggedright\arraybackslash}m{1cm}|>{\raggedright\arraybackslash}m{1cm}| }
+		
+		\hline
+		\multicolumn{4}{|>{\raggedright\arraybackslash}l|}{\textbf{Work Package Number:}  1}&\multicolumn{5}{|>{\raggedright\arraybackslash}l|}{\textbf{Lead beneficiary:}  HIRO}\\
+		
+		\hline
+		
+		\multicolumn{9}{|>{\raggedright\arraybackslash}l|}{\textbf{Work Package Title:} Project management }\\
+		
+		\hline 
+		
+		\textbf{Participant number}&1&2&3&4&5&6&7&8\\
+		
+		\hline
+		
+		\textbf{Short name of participant}&HR&ADS&BHO&DS&IS&RSAC&TAS&VT\\
+		 
+		 \hline 
+		 
+		 \textbf{Person Month per Participant}&X&0&0&0&0&0&0&0\\
+		 
+		 \hline
+		 
+		 \multicolumn{4}{|>{\raggedright\arraybackslash}l|}{\textbf{Start Month}  M0}&\multicolumn{5}{|>{\raggedright\arraybackslash}l|}{\textbf{End month:}  M44}\\
+		 
+		 \hline
+		
+		\multicolumn{9}{|>{\raggedright\arraybackslash}l|}{\parbox[t]{14cm}{\textbf{Objectives:} \newline The aim of WP1 is to ensure a good coordination and management of the project covering technical, administrative, ethical and financial issues. The specific aims are:
+\begin{itemize}
+\item Coordinate DEOS-UD project providing the partners with the needed organization, supervision and leadership.
+\item Manage and monitor the project progress.
+\item Understand the overall project together with its risk and determination of mitigation and contingency plans for the proper development of the project.
+\end{itemize}		
+		}}\\
+		
+		\hline 
+		 
+		 \multicolumn{9}{|>{\raggedright\arraybackslash}l|}{\parbox[t]{14cm}{\textbf{Description of work:} \newline 
+\underline{Task 1.1: Development project management plan.} \textit{Leadership: HR}. Elaboration of all the documentation that states the strategy of the management and organization of the project through its duration.\\
+\underline{Task 1.2: Monitoring of the project.} \textit{Leadership: HR}. Gathering of the members of the project to inform
+each other of the progress. Tracking of the active tasks and scheduling.\\
+\underline{Task 1.3: Annual reporting.} \textit{Leadership: HR}. Every year that the project lasts will call for the
+elaboration of an internal report with the aim of
+keeping up to date with the progress done.\\
+\underline{Task 1.4: Project implementation of risk management.} \textit{Leadership: HR}.Study of all the potential risks and how will they
+be managed so that their affectation to the project
+stays to a minimum.
+		 
+		 }}\\
+		 \hline 
+		 
+		 \multicolumn{9}{|>{\raggedright\arraybackslash}l|}{\parbox[t]{14cm}{\textbf{Deliverables:} \newline \underline{Project management plan:} Document with detailed explanation
+of the project management strategies,
+including the Project Charter,
+stakeholder register, risk, quality and
+financial plans. Due date: M1}}\\
+		 
+		 \hline 
+		 
+		\end{tabular}
+		
+		\caption{WP1 description}
+		
+\end{table}
+
+
+\begin{table}[H]
+\begin{tabular}{| >{\raggedright\arraybackslash}p{3cm} | >{\raggedright\arraybackslash}m{1cm} | >{\raggedright\arraybackslash}m{1cm} | >{\raggedright\arraybackslash}m{1cm}| >{\raggedright\arraybackslash}m{1cm}| >{\raggedright\arraybackslash}m{1cm} | >{\raggedright\arraybackslash}m{1cm} |>{\raggedright\arraybackslash}m{1cm}|>{\raggedright\arraybackslash}m{1cm}| }
+		
+		\hline
+		\multicolumn{4}{|>{\raggedright\arraybackslash}l|}{\textbf{Work Package Number:}  2}&\multicolumn{5}{|>{\raggedright\arraybackslash}l|}{\textbf{Lead beneficiary:}  HIRO}\\
+		
+		\hline
+		
+		\multicolumn{9}{|>{\raggedright\arraybackslash}l|}{\textbf{Work Package Title:} Quality and administration }\\
+		
+		\hline 
+		
+		\textbf{Participant number}&1&2&3&4&5&6&7&8\\
+		
+		\hline
+		
+		\textbf{Short name of participant}&ADS&BHO&DS&HR&IS&RSAC&TAS&VT\\
+		 
+		 \hline 
+		 
+		 \textbf{Person Month per Participant}&X&X&X&X&X&X&X&X\\
+		 
+		 \hline
+		 
+		 \multicolumn{4}{|>{\raggedright\arraybackslash}l|}{\textbf{Start Month}  M0}&\multicolumn{5}{|>{\raggedright\arraybackslash}l|}{\textbf{End month:}  M44}\\
+		 
+		 \hline
+		
+		\multicolumn{9}{|>{\raggedright\arraybackslash}l|}{\parbox[t]{14cm}{\textbf{Objectives:} \newline The aim of WP2 is to manage the human resources of the project in order to supply the amount of them needed to perform the project. It is also in charge of developing and controlling the financial feasibility study and seek funding to achieve the project objectives. Documentation management and periodic monitoring will also be done in this WP, assuring the quality of the deliverables and other documentation. 
+		}}\\
+		
+		\hline 
+		 
+		 \multicolumn{9}{|>{\raggedright\arraybackslash}l|}{\parbox[t]{14cm}{\textbf{Description of work:} \newline 
+\underline{Task 2.1: Human resources.} \textit{Leadership: HR}. Definition of the number of employees necessary and employment of them. Administration of all the employees needed to fulfill the different tasks of the project.\\
+\underline{Task 2.2: Financial plan.} \textit{Leadership: HR}. Lay down of all the fix and variable costs of the project and the expected funding. Study on the economic feasibility of the project, monitoring of the evolution of the project finances and search for the additional funding for the project. \\
+\underline{Task 2.3: Documentation management.} \textit{Leadership: HR}. Establishment of the guidelines for the redaction of all documents, revision of all the documents of the project and rectification of the documents that do not meet the project requirements. Approval of the reviewed and rectified documents. \\
+\underline{Task 2.4: Periodic monitoring.} \textit{Leadership: HR}. To ensure the quality of the project, a periodic monitoring of all the activities will be carried out. 	 
+		 }}\\
+		 \hline 
+		 
+		 \multicolumn{9}{|>{\raggedright\arraybackslash}l|}{\parbox[t]{14cm}{\textbf{Deliverables:} \newline }}\\
+		 
+		 \hline 
+		 
+		\end{tabular}
+		
+		\caption{WP2 description}
+		
+\end{table}
+
+
+\begin{table}[H]
+\begin{tabular}{| >{\raggedright\arraybackslash}p{3cm} | >{\raggedright\arraybackslash}m{1cm} | >{\raggedright\arraybackslash}m{1cm} | >{\raggedright\arraybackslash}m{1cm}| >{\raggedright\arraybackslash}m{1cm}| >{\raggedright\arraybackslash}m{1cm} | >{\raggedright\arraybackslash}m{1cm} |>{\raggedright\arraybackslash}m{1cm}|>{\raggedright\arraybackslash}m{1cm}| }
+		
+		\hline
+		\multicolumn{4}{|>{\raggedright\arraybackslash}l|}{\textbf{Work Package Number:}  3}&\multicolumn{5}{|>{\raggedright\arraybackslash}l|}{\textbf{Lead beneficiary:} \newline
+		 Airbus Defence and Space}\\
+		
+		\hline
+		
+		\multicolumn{9}{|>{\raggedright\arraybackslash}l|}{\textbf{Work Package Title:} State of the art }\\
+		
+		\hline 
+		
+		\textbf{Participant number}&1&2&3&4&5&6&7&8\\
+		
+		\hline
+		
+		\textbf{Short name of participant}&ADS&BHO&DS&HR&IS&RSAC&TAS&VT\\
+		 
+		 \hline 
+		 
+		 \textbf{Person Month per Participant}&X&X&X&X&X&X&X&X\\
+		 
+		 \hline
+		 
+		 \multicolumn{4}{|>{\raggedright\arraybackslash}l|}{\textbf{Start Month}  M1}&\multicolumn{5}{|>{\raggedright\arraybackslash}l|}{\textbf{End month:}  M3}\\
+		 
+		 \hline
+		
+		\multicolumn{9}{|>{\raggedright\arraybackslash}l|}{\parbox[t]{14cm}{\textbf{Objectives:} \newline The aim of WP3 . 
+		}}\\
+		
+		\hline 
+		 
+		 \multicolumn{9}{|>{\raggedright\arraybackslash}l|}{\parbox[t]{14cm}{\textbf{Description of work:} \newline 
+		\underline{Task 3.1: Payloads.} \textit{Leadership: ADS. Participants: DS, TAS and HR.} Search for the current space applications and definition of the requirements for the sensors.\\
+		
+		\underline{Task 3.2: Modular system.} \textit{Leadership: TAS. Participants: DS, ADS and HR.} Search for the current modular systems with space applications and definition of the requirements for the modular system developed in the project.\\
+		
+		\underline{Task 3.3: Urban development applications with space technologies.} \textit{Leadership: IS. Participands: VT, RSAC and HR.} Search for current applications similar to those that want to be implemented in this project in the areas of weather forecast, urban planning and greenhouse emissions reduction. Definition of the requirements of the applications. }}\\
+		 \hline 
+		 
+		 \multicolumn{9}{|>{\raggedright\arraybackslash}l|}{\parbox[t]{14cm}{\textbf{Deliverables:} \newline }}\\
+		 
+		 \hline 
+		 
+		\end{tabular}
+		
+		\caption{WP3 description}
+		
+\end{table}
+
+
+
+\begin{table}[H]
+\begin{tabular}{| >{\raggedright\arraybackslash}p{3cm} | >{\raggedright\arraybackslash}m{1cm} | >{\raggedright\arraybackslash}m{1cm} | >{\raggedright\arraybackslash}m{1cm}| >{\raggedright\arraybackslash}m{1cm}| >{\raggedright\arraybackslash}m{1cm} | >{\raggedright\arraybackslash}m{1cm} |>{\raggedright\arraybackslash}m{1cm}|>{\raggedright\arraybackslash}m{1cm}| }
+		
+		\hline
+		\multicolumn{4}{|>{\raggedright\arraybackslash}l|}{\textbf{Work Package Number:}  4}&\multicolumn{5}{|>{\raggedright\arraybackslash}l|}{\textbf{Lead beneficiary:} \newline
+		 Airbus Defence and Space}\\
+		
+		\hline
+		
+		\multicolumn{9}{|>{\raggedright\arraybackslash}l|}{\textbf{Work Package Title:} Product development }\\
+		
+		\hline 
+		
+		\textbf{Participant number}&1&2&3&4&5&6&7&8\\
+		
+		\hline
+		
+		\textbf{Short name of participant}&ADS&BHO&DS&HR&IS&RSAC&TAS&VT\\
+		 
+		 \hline 
+		 
+		 \textbf{Person Month per Participant}&X&X&X&X&X&X&X&X\\
+		 
+		 \hline
+		 
+		 \multicolumn{4}{|>{\raggedright\arraybackslash}l|}{\textbf{Start Month}  M4}&\multicolumn{5}{|>{\raggedright\arraybackslash}l|}{\textbf{End month:}  M29}\\
+		 
+		 \hline
+		
+		\multicolumn{9}{|>{\raggedright\arraybackslash}l|}{\parbox[t]{14cm}{\textbf{Objectives:} \newline The aim of WP4 . 
+		}}\\
+		
+		\hline 
+		 
+		 \multicolumn{9}{|>{\raggedright\arraybackslash}l|}{\parbox[t]{14cm}{\textbf{Description of work:} \newline 
+		\underline{Task 4.1: Preliminary design.} \textit{Leadership: ADS. Participants: DS, TAS, HR, VT, RSAC, IS}. Research for the payload preliminary design and development of it. Modular system preliminary design, definition of SATCOM application domains and development of: physical framework for sensor block, systems interactions and applications, sensor data fusion software. Preliminary design of the interaction platform and implementation of web-based servers for sharing sensors data and processing algorithms based on applications.\\
+		 
+		\underline{Task 4.2: Final design:} \textit{Leadership: ADS. Participants: DS, TAS, HR, VT, RSAC, IS}. Final design and technical specifications of the payload sensors. Final design of the modular system, specifically the sensors data fusion software. Final design and implementation of the interaction platform, including the web servers for data sharing and the processing algorithms. 
+		
+		 }}\\
+		 \hline 
+		 
+		 \multicolumn{9}{|>{\raggedright\arraybackslash}l|}{\parbox[t]{14cm}{\textbf{Deliverables:} \newline }}\\
+		 
+		 \hline 
+		 
+		\end{tabular}
+		
+		\caption{WP4 description}
+		
+\end{table}
