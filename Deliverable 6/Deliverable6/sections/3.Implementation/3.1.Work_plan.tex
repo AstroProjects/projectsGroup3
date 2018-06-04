@@ -39,55 +39,60 @@ The following Gantt diagram contains all the tasks planned for the project, with
 
 %\end{itemize}
 
-\begin{longtable}[H]{p{1.3cm} p{2.1cm} p{1.8cm} p{2cm} p{1.9cm} p{1.6cm} p{1.3cm}}
-	\toprule[2pt]
-	
-	\textbf{Work Package No.} & \textbf{Work Package Title} & \textbf{Lead Participant No.} & \textbf{Lead Participant Short Name} & \textbf{Person Months} & \textbf{Start Month} & \textbf{End Month} \\
-	
-	\midrule[1.5pt] 
-	\endhead
-	
-	 1& Project management & 4 & HR & 16 & M0 & M44 \vspace{0.2cm} \\
-	
-	\midrule
+% \usepackage{array} is required
 
-	 2& Quality and administration & 4 & HR &  26 & M0 & M44 \vspace{0.2cm} \\
+\begin{table}[H]
+	\centering
+	\begin{tabular}{p{1.4cm} >{\raggedright\arraybackslash}p{2.7cm} p{1.8cm} p{2.2cm} p{1.3cm} p{1.2cm} p{1.3cm}}
 	
-	\midrule
+		\toprule[2pt]
+		
+		\textbf{Work Package No.} & \textbf{Work Package Title} & \textbf{Lead Participant No.} & \textbf{Lead Participant Short Name} & \textbf{Person Months} & \textbf{Start Month} & \textbf{End Month} \\
+		
+		\midrule[1.5pt] 
+		
+		 1& Project management & 4 & HR & 16 & M0 & M44 \vspace{0.2cm} \\
+		
+		\midrule
 	
-	 3& State of the art & 1 & ADS & 34 & M1 & M3 \vspace{0.2cm} \\
-
-	\midrule
-
- 	 4& Product development & 1 & ADS & 119 & M4 & M29 \vspace{0.2cm} \\
- 	 
- 	 \midrule
- 	 
- 	 5& Simulation, testing, validation and quality & 7 & TAS & 27 & M22  & M43 \vspace{0.2cm} \\
- 	 
- 	 \midrule
- 	 
- 	 6& Business planning and exploitation of results & 2 & BHO & 16 & M0 & M1 \vspace{0.2cm} \\
- 	 
- 	 \midrule
- 	 
- 	 7& Communication and dissemination strategies & 4 & HR & 21 & M0 & M44 \vspace{0.2cm} \\
+		 2& Quality and administration & 4 & HR &  26 & M0 & M44 \vspace{0.2cm} \\
+		
+		\midrule
+		
+		 3& State of the art & 1 & ADS & 34 & M1 & M3 \vspace{0.2cm} \\
 	
-	\bottomrule[2pt]
+		\midrule
 	
+	 	 4& Product development & 1 & ADS & 119 & M4 & M29 \vspace{0.2cm} \\
+	 	 
+	 	 \midrule
+	 	 
+	 	 5& Simulation, testing, validation and quality & 7 & TAS & 27 & M22  & M43 \vspace{0.2cm} \\
+	 	 
+	 	 \midrule
+	 	 
+	 	 6& Business planning and exploitation of results & 2 & BHO & 16 & M0 & M1 \vspace{0.2cm} \\
+	 	 
+	 	 \midrule
+	 	 
+	 	 7& Communication and dissemination strategies & 4 & HR & 21 & M0 & M44 \vspace{0.2cm} \\
+		
+		\bottomrule[2pt]
+	
+	\end{tabular}
 	\caption{List of work packages}
 	\label{workpackages}
-\end{longtable}
+\end{table}
+
+\pagebreak
 
 \input{./sections/3.Implementation/3.1.1.WP_Description}
-
-
 
 \subsection{Deliverables}
 \label{deliverables}
 The table \ref{Deliverables} gather the information related to the deliverables to be presented along the project development. 
 
-\begin{longtable}[H]{p{1.8cm} p{2.2cm} p{1.3cm} p{1.8cm} p{1.1cm} p{2.1cm} p{1.8cm}}
+\begin{longtable}[H]{p{1.8cm} >{\raggedright\arraybackslash}p{2.5cm} p{1.3cm} p{1.8cm} p{0.8cm} p{2.1cm} p{1.8cm}}
 	\toprule[2pt]
 	
 	\textbf{Deliverable No.} & \textbf{Deliverable Name} & \textbf{Work Package No.} & \textbf{Lead Participant Short Name} & \textbf{Type} & \textbf{Disemination Level} & \textbf{Deliverable Date} \\
@@ -167,7 +172,6 @@ The table \ref{Deliverables} gather the information related to the deliverables 
 	\label{Deliverables}
 \end{longtable}
 
-
 \subsection{Inter-relation between components}
 
 Next page shows the inter-relation between the components of the project. A simplified network diagram has been thought as the most suitable option for this purpose. 
@@ -182,4 +186,3 @@ Next page shows the inter-relation between the components of the project. A simp
 	\label{Gantt}
 	\end{figure}
 \end{landscape}
-
