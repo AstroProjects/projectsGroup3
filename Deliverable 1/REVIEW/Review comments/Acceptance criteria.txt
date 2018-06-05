@@ -1,0 +1,3 @@
+Se ha cambiado la tabla del D1 de Acceptance criteria por la del D2. 
+
+La tabla del D2 corregía los errores señalados por los profesores en el D1.
